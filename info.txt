@@ -1,5 +1,5 @@
-name = "Omer Ronen"
-SID = "0123456789"
-email = "omer_ronen@berkeley.edu"
-github_name = "OmerRonen"
+name = "Mia Denning"
+SID = "3041996961"
+email = "mia_denning@berkeley.edu"
+github_name = "miadenning0392"
 
