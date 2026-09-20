@@ -4,7 +4,7 @@
 #
 # Assumes:
 #   - This script lives in lab1/code/, alongside clean.py and lab1.ipynb
-#   - The `stat215a` conda environment has already been created:
+#   - The `215a` conda environment has already been created:
 #       conda env create -f environment.yaml
 #   - lab1/data/ contains the raw CSV (not committed to git; grader adds it)
 #   - lab1/figs/ and lab1/report/ exist as siblings of lab1/code/
@@ -17,7 +17,7 @@ cd "$(dirname "$0")"
 
 # Activate the conda environment
 source "$(conda info --base)/etc/profile.d/conda.sh"
-conda activate stat215a
+conda activate 215a
 
 # Re-execute the notebook from scratch. This reruns clean_data() from
 # clean.py on the raw CSV, regenerates every figure into ../figs/, and

@@ -3,7 +3,7 @@
 Lab 1 is due at 11:59pm on Saturday, September 19th. All students are recommended to begin as soon as possible.
 
 The first thing students should do is read through the [Lab 1 instructions](https://github.com/anqiwang02/stat-215-a-gsi/blob/main/lab1/instructions/lab1-instructions.pdf). Students should also make sure they are familiar with the [general lab instructions](https://github.com/anqiwang02/stat-215-a-gsi/blob/main/discussion/week1/lab-instructions.pdf). Between these two sets of instructions, there should be details covering:
-- Setting up your `stat215a` environment, if you have not done so already.
+- Setting up your `215a` environment, if you have not done so already.
 - General report-writing guidelines
 - Figure guidelines
 - Jupyter & LaTeX guidelines
