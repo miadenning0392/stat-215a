@@ -9,7 +9,7 @@ cd "$(dirname "$0")"
 source "$(conda info --base)/etc/profile.d/conda.sh"
 conda activate 215a
 
-jupyter nbconvert --to notebook --execute --inplace --ExecutePreprocessor.timeout=-1 eda_walkthrough.ipynb
+jupyter nbconvert --to notebook --execute --inplace --ExecutePreprocessor.timeout=-1 eda.ipynb
 
 # compile the report if LaTeX is installed (twice so figure/citation references resolve)
 if command -v pdflatex >/dev/null 2>&1; then
