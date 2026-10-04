@@ -1,7 +1,7 @@
 #!/bin/bash
-# Reproduces lab 2's results: cleans the raw data and re-executes the analysis
-# notebook, regenerating all figures in ../report/figures/ and the table in ../report/tables/.
-# Requires the data folder at lab2/data and the conda environment in environment.yaml.
+#reproduces lab 2's results: cleans the raw data and re-executes the analysis
+#notebook, regenerating all figures in ../report/figures/ and the table in ../report/tables/
+#requires the data folder at lab2/data and the conda environment in environment.yaml
 set -e
 
 cd "$(dirname "$0")"
