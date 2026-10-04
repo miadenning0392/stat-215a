@@ -1,0 +1,5 @@
+step,dropped,remaining,% of raw kept
+"raw (after ZIP fix, 0 -> NaN)",0,47471,100.0
+skipped more than half the questions,1287,46184,97.3
+missing lat/long,991,45193,95.2
+outside contiguous US,198,44995,94.8
