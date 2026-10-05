@@ -1,0 +1,293 @@
+\documentclass[10pt,letterpaper]{article}
+\usepackage{geometry}
+\geometry{margin=1in}
+\usepackage{graphicx}
+\usepackage{tcolorbox}
+\usepackage{booktabs}
+
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0.5em}
+
+%make lists tighter
+\usepackage{enumitem}
+\setlist{nolistsep}
+
+%reduce spacing before and after section
+\usepackage{titlesec}
+% reduce section, subsection, etc spacing
+\usepackage{titlesec}
+\titlespacing*{\section}{0pt}{0\baselineskip}{0\baselineskip}
+\titlespacing*{\subsection}{0pt}{0\baselineskip}{0\baselineskip}
+\titlespacing*{\subsubsection}{0pt}{0\baselineskip}{0\baselineskip}
+
+%reduce list spacing
+\usepackage{enumitem}
+\setlist{nosep}
+
+\usepackage[hidelinks]{hyperref}
+
+\title{Lab 2 - Linguistics Data, Stat 215A, Fall 2026\vspace{-2em}}
+
+% submission must not contain your name
+% but feel free to make a version for yourself with your name on it
+% \author{Your name}
+
+\begin{document}
+\maketitle
+
+\section{Introduction}\label{introduction}
+
+In linguistics, computational and statistical analysis allow for consideration of a vast linguistic features space from which we can seek determinants of linguistic variation without using extralinguistic features, like geographic regions and cultural factors, as dialectic groupings \cite{nerbonne_introducing_2003}. Specifically this report does so employing dialectometric techniques, using quantitative methods to analyze linguistic variation by aggregating features over geographic patterns \cite{nerbonne_progress_2006}.
+
+\begin{figure}[ht]
+    \centering
+    \includegraphics[width=0.55\textwidth]{"../figs/response_locations.png"}
+
+    \caption{This shows the exact geographic distribution of responses by the provided latitude and longitude with each response.}
+    \label{fig:response_locations}
+\end{figure}
+
+
+In Section \ref{data}, I will first describe the basic structure of the data and review the decisions made in the cleaning and preprocessing of the data. I introduce additional US state population data to help contextualize the geographic representation of respondents in this sample. I will then use two questions as an example of linguistic variation by investigating the relationship between the responses of the two questions with each other and geography. I chose to focus on two questions related to food, the name people use for the sweet spread on cake and the name people use for the last slice of bread. In Section \ref{dimension-reduction}, I will discuss dimension reduction techniques for this data and the preprocessing decisions made to appropriately fit the data. Through the dimension reduction analysis it is clear that relatively few questions are responsible for a significant amount of variation in the response data. In Section \ref{clustering}, I will share clustering results from the entire data using k-means and hierarchical clustering methods. This follows dialectometric techniques by clustering the lexical features of the respondents and then visually showing the distribution of these similar lexical respondents across the US. Then in Section \ref{stability}, I will discuss the stability of these findings to data perturbations, with a specific focus on the sample used in these analyses. I show that the clustering results are relatively sensitive to data perturbations, but k-means clustering performs better than hierarchical clustering across both of the data perturbations I conducted. Finally in Section \ref{conclusion}, I will provide a potential direction for grounding of my findings in external data and discuss the main takeaways from my analyses within the three realms of data science: data, algorithms and analysis, and future data.
+
+
+\section{The Data}\label{data}
+
+The data used in this report is from a Dialect Survey conducted by Bert Vaux: \url{https://www.dialectsofenglish.com/} which has previously been saved and processed. The data includes the survey question and responses for \texttt{47,471} respondents across the United States. In addition to the responses the dataset contains features for each response ID, state, city, zipcode, latitude, and longitude. These analyses are restricted to 67 of the questions that look at lexical differences as opposed to phonetic differences. The questions have categorical responses with varying options. Two example questions and response options are shown in Figure \ref{fig:survey_questions}. The data contains both lexical and geographic data which allows for quantitative analysis of geographic lexical similarities. The geographical distribution of responses is shown in Figure \ref{fig:response_locations}.
+
+
+\begin{figure}[ht]
+\centering
+\begin{tcolorbox}[width=0.95\textwidth]
+\textbf{Q50:} What word(s) do you use to address a group of two or more people?
+
+\begin{tabular}{lll}
+(a) you all \\
+(b) yous, youse \\
+(c) you lot \\
+(d) you guys \\
+(e) you 'uns  \\
+(f) yins \\
+(g) you  \\
+(h) other \\
+(i) y'all
+\end{tabular}
+
+\vspace{1em}
+
+\textbf{Q51:} Would you say `Are you coming with?' as a full sentence,
+to mean `Are you coming with us?'
+
+\begin{tabular}{lll}
+(a) yes  \\
+(b) no \\
+(c) other 
+\end{tabular}
+
+\end{tcolorbox}
+\caption{Example of survey questions and responses.}
+\label{fig:survey_questions}
+\end{figure}
+
+When considered alongside population data from the US Census Bureau \cite{bureau_resident_2000} the distribution of geographic representation is more visible in Figure \ref{fig:response_by_state}. From my limited research the survey began in the early 2000s, so I used data from the 2000 census \cite{bureau_resident_2000}. This data is collected through a survey and we have limited information on the respondent selection criteria or recruitment methods. Additionally, there is no  demographic information collected on respondents, other than their geographic location, which restricts our ability to control for any confounding demographic features and therefore prevents us from generalizing any findings in our analyses to the broader US population. For example, if  there is an overrepresentation of respondents from a higher socioeconomic status that potentially had more access to computers and higher tech literacy to participate in an online survey, the patterns and clusters presented in this report would be representative of the lexical variation of the higher socioeconomic status population and not the broader US population. However, in framing findings within this specific sample, employing various methods of observation clustering can identify potential dialect groups in the US that have similar responses to the lexical survey questions. Further, we can do so without introducing extralinguistic features that are often relied upon as the basis for groupings \cite{nerbonne_introducing_2023}.
+
+
+\begin{figure}[ht]
+    \centering
+    \includegraphics[width=0.45\textwidth]{"../figs/responses_by_state.png"}
+    \hfill
+    \includegraphics[width=0.45\textwidth]{"../figs/response_rate_by_state.png"}
+
+    \caption{The left figure shows the count of responses by state and the right figure shows the population proportional responses by state. When the total response rate is considered alone the geographic distribution appears to skew towards higher population states, but the proportional visualization helps control for this impact.}
+    \label{fig:response_by_state}
+\end{figure}
+
+
+\begin{figure}[ht]
+    \centering
+    \includegraphics[width=0.65\textwidth]{"../figs/missing_responses.png"}
+    \caption{This shows the distribution of total missing responses across respondents, excluding respondents with complete surveys.}
+    \label{fig:missing_responses}
+\end{figure}
+
+\subsection{Data Cleaning}\label{data-cleaning}
+
+The questions in the survey data are not required, and although many of the respondents answered all of the questions there are  missing responses for some. The distribution of the number of missing responses out of the 67 questions included in this analysis is shown in Figure \ref{fig:missing_responses}. The \texttt{1,008} respondents that were missing responses for all 67 questions were excluded from all analysis. Further, all \texttt{1,018} respondents that were missing longitude and latitude data were also excluded. However, respondents that were missing city and state data were not excluded, because the present longitude and latitude data is sufficient to geographically situate their responses. All responses were also removed from the states Alaska and Hawaii because there were so few responses and due to geographical separation there were not enough responses in these states to provide valuable information for geographical similarity trends. This was also a decision I made for ease of visualizing trends and clusters on a contiguous geographic space. 
+
+
+\begin{figure}[ht]
+\centering
+\begin{tcolorbox}[width=0.95\textwidth]
+\textbf{Q94:} Do you say `frosting' or `icing' for the sweet spread one puts on a cake?
+
+\begin{tabular}{lll}
+(a) frosting \\
+(b) icing \\
+(c) they are different \\
+(d) both \\
+(e) neither \\
+(f) other
+\end{tabular}
+
+\vspace{1em}
+
+\textbf{Q111:} What do you call the end of a loaf of bread?
+
+\begin{tabular}{lll}
+(a) end \\
+(b) heel \\
+(c) crust \\
+(d) nose \\
+(e) butt \\
+(f) shpitzel \\
+(g) I have no word for this \\
+(h) other
+\end{tabular}
+
+\end{tcolorbox}
+\caption{Example of survey questions and responses for the two questions of focus in the exploratory data analysis. The full response text was truncated from '(c) icing is thinner than frosting, white, and/or made of powdered sugar and milk or lemon juice' to '(c) they are different' for ease of displaying results throughout analysis.}
+\label{fig:survey_questions_eda}
+\end{figure}
+
+\begin{figure}[ht]
+    \centering
+    \includegraphics[width=0.75\textwidth]{"../figs/icing_frosting_dist.png"}
+    \caption{This shows the distribution of response answers across the US.}
+    \label{fig:icing_frosting_dist}
+\end{figure}
+
+
+\subsection{Exploratory Data Analysis}\label{data-exploration}
+
+For exploratory analysis, I focused on two example questions related to food. The full questions and response text can be found in Figure \ref{fig:survey_questions_eda}. The full response text was truncated from \texttt{'\(c\) icing is thinner than frosting, white, and/or made of powdered sugar and milk or lemon juice'} to \texttt{'\(c\) they are different'} for ease of displaying results throughout analysis.
+
+\begin{figure}[ht]
+    \centering
+    \includegraphics[width=0.75\textwidth]{"../figs/last_slice_bread_dist.png"}
+    \caption{This shows the distribution of response answers across the US.}
+    \label{fig:last_slice_bread_dist}
+\end{figure}
+
+\begin{table}[h]
+    \centering
+    \caption{Percentage of each sweet spread on a cake group giving each end of the bread answer. Although it initially appears that there is signal between the two questions, with the proportional distribution of \texttt{neither} for sweet spread differing drastically across the bread end responses from other sweet spread responses, the number of responses for \texttt{neither} across all responses (\texttt{n = 13}) makes this pattern too rare to draw any reasonable conclusions from.}
+    \input{../figs/crosstab_icing_bread.tex}
+    \label{table:crosstab_icing_bread}
+\end{table}
+
+Visually, the categorical response groups appear to follow a similar geographic pattern as seen in Figure \ref{fig:icing_frosting_dist} and Figure \ref{fig:last_slice_bread_dist}. When considered together in Figure \ref{table:crosstab_icing_bread}, it is evident that these two questions are not predictive. The large groups for the sweet spread names have nearly identical rows on the last slices of bread name, with about \texttt{60\%} each in \texttt{heel}. Although it initially appears that there is signal between the two questions, with the proportional distribution of \texttt{neither} for sweet spread differing drastically across the bread end responses from other sweet spread responses, the number of responses for \texttt{neither} across all responses (\texttt{n = 13}) makes this pattern too small to reasonably draw any conclusions.
+
+
+
+\section{Dimension Reduction}\label{dimension-reduction}
+
+
+\begin{figure}[ht]
+    \centering
+    \includegraphics[width=0.65\textwidth]{"../figs/scree.png"}
+    \caption{This shows the variance explained by each principal component derived from the \texttt{lingLocation.txt} data.}
+    \label{fig:scree}
+\end{figure}
+
+
+It is first necessary to convert the categorical data to binary encoded vectors to perform dimension reduction analysis, since the original categorical data represents labels as opposed to values. This was conveniently already provided in \texttt{lingLocation.txt}, where the binary response vectors were binned into one degree latitude by one degree longitude squares and summed over individuals. I used PCA as the primary dimension reduction method. To preprocess this data specifically for PCA, I scaled each of the summed response vectors by the number of respondents in each bin and dropped all bins with zero respondents. This prevented the dimension reduction from simply reproducing the population density of the respondents. If I did not take this preprocessing step, the first principal component would simply be highly correlated with the number of people in the bin (\texttt{r=0.99}). This is why it would not be a good approach to do PCA on the raw data. Further, I decided to mean center the data to prevent rare and frequent categorical answers from having different baselines. I decided not to scale the data further, using standard deviation scaling, because this would distort the variance so rarer categorical responses would have more weight. The resulting scree plot is shown in Figure \ref{fig:scree}. Due to the sharp change after the third principal component, I decided to retain the first three principal components for my analyses. The variation of the first principal component from the \texttt{lingLocation.txt} data across the US when binned by latitude and longitude is shown in Figure \ref{fig:pc1_map}.
+
+
+\begin{figure}[ht]
+    \centering
+    \includegraphics[width=0.65\textwidth]{"../figs/pc1_map.png"}
+    \caption{This shows the distribution of scores for the first principal component from the \texttt{lingLocation.txt} data across the US when binned by latitude and longitude.}
+    \label{fig:pc1_map}
+\end{figure}
+
+I compared the squared loadings for each question over the first principal component, summing all the loadings for each response. Comparing the squared loadings controlled for the variation in categorical responses for each question. Just five questions were responsible for \texttt{38.2\%} of the first principal component. The question with the highest share was \texttt{Q076  What term do you use to refer to something that is across both streets from you at an intersection (or diagonally across from you in general)?} at \texttt{10.6\%}. The questions I focused on in my exploratory analysis were less significant, \texttt{Q094  Do you say 'frosting' or 'icing' for the sweet spread one puts on a cake?} with \texttt{5.1\%} and \texttt{Q111  What do you call the end of a loaf of bread?} with \texttt{0.5\%}.
+
+
+\section{Clustering}\label{clustering}
+
+Linguistic variation is gradual making it challenging to identify common linguistic features without introducing extralinguistic features in analysis like grouping by geographic region or cultural factors \cite{nerbonne_introducing_2023}. However, this does lend itself to methods that focus on relative similarity, like clustering, which is the focus of this section. Clustering methods allow for the summarization of observations as opposed to the summarization of features explored in \ref{data-exploration}. By clustering the observations, or in this case the responses collected by repondant, we can identify groups of respondents that have similar linguistic features and therefore potentially similar dialects.
+
+\begin{figure}[ht]
+    \centering
+    \includegraphics[width=0.75\textwidth]{"../figs/choose_k.png"}
+    \caption{On the left is the elbow plot. This shows some flattening between five and eight clusters but a relatively smooth curve. This indicates that there are not distinct cluster groups in the data, but rather continuous change. On the left is a silhouette value plot. This is more informative and shows a pretty clear drop after six clusters.}
+    \label{fig:choose_k}
+\end{figure}
+
+First, I tried clustering with k-means. To determine the appropriate choice for \texttt{k} I created an elbow plot and a silhouette plot shown in Figure \ref{fig:choose_k}. The elbow plot shows some flattening between five and eight clusters but a relatively smooth curve. The silhouette value plot shows a pretty clear drop after six clusters. Taken together these indicate that there are not distinct cluster groups in the underlying data, but more likely the lexical change described by the dimension reduced data is a continuum. However, these figures also indicate that six clusters is a reasonable choice for \texttt{k}. The final clusters using k-means are shown in Figure \ref{fig:kmeans_map}. The six clusters shown on the US state map generally surround the South, the West Coast, the northern Midwest, the southern Midwest, the Northeast, and the central US maybe best described as the Mountain Region. It is a little surprising to see the Southwest US not form a distinct culture, but rather appear as a mix of the South, the West Coast and the southern Midwest. Florida also stood out in that it was clustered with the southern Midwest. 
+
+The benefit of clustering with k-means is that it is fast and easy to scale. It was also the most stable method, discussed in Section \ref{stability}. Although you do have to select k in advance of running the cluster, both the elbow and silhouette plots provide some guidance for this decision. The downside of k-means is that it assumes cluster of relatively similar size, which may not be an apporiate assumption for dialect groups in the US, especially within this limited sample.
+
+
+\begin{figure}[ht]
+    \centering
+    \includegraphics[width=0.75\textwidth]{"../figs/kmeans_map.png"}
+    \caption{This shows the data clustered using k-means with \texttt{k=6} across the US. Each point is also scaled by the number of respondents.}
+    \label{fig:kmeans_map}
+\end{figure}
+
+Then, I ran a hierarchical clustering. I created a dendrogram plot shown in Figure \ref{fig:dendrogram} in which it is evident that six clusters is also a reasonable choice using the hierarchical clustering method. The dendrogram shows the nestedness of the clusters and a reasonable resolution of clusters can be generally found when a horizontal line cleanly divides all clusters, which is present at six. The final clusters using k-means are shown in Figure \ref{fig:kmeans_map}. This is known as a greedy clustering method because there is no global search, the clusters are instead constructed through a series of pairwise comparisons. Very similar clusters were shown as the k-means clustering method, however the US South cluster was more distinct here, and there were fewer distinct divisions in the northwestern US states.
+
+The benefit of hierarchical clustering is that it does not require a pre-specified number of clusters, and the nestedness of the clusters can be informative. The downside is that it is more computationally expensive and less stable than k-means clustering, as discussed in Section \ref{stability}.
+
+For both clustering methods, I used the dimension reduced data from Section \ref{dimension-reduction}. I made this decision because the data was high dimensional and the dimension reduction helped to reduce some noise resulting from the sparseness of the data created in the one-hot encoding. The scaling methods I employed in the dimension reduction also helped the clustering similarities depend more on more common lexical features which was appropriate in this domain. As a result, both clustering method use only the first three principal components from the PCA dimension reduction, so the questions with the largest loadings discussed in Section \ref{dimension-reduction} are the most influential in the clustering results.
+
+
+\begin{figure}[ht]
+    \centering
+    \includegraphics[width=0.75\textwidth]{"../figs/dendrogram.png"}
+    \caption{This shows a dendrogram plot of the hierarchical clusters for the data with a horizontal line at six clusters.}
+    \label{fig:dendrogram}
+\end{figure}
+
+\begin{figure}[ht]
+    \centering
+    \includegraphics[width=0.75\textwidth]{"../figs/hierarchical_map.png"}
+    \caption{This shows the hierarchical clustered data with 6 clusters across the US. Each point is also scaled by the number of respondents.}
+    \label{fig:hierarchical_map}
+\end{figure}
+
+\section{Stability of findings to perturbation}\label{stability}
+
+It is important to evaluate the stability of these clustering results through reasonable data perturbations. First, I assessed the stability of the results to my data cleaning and preprocessing decisions by recalculating the clusters without mean centering the response data. Then, I considered sampling perturbations. In Section \ref{data}, I detailed the potential issues that arise with the lack of information on the respondent recruitment for this survey data. With this context, it is important to inspect the stability of these findings to different samples of respondents. The best method for this using historical data is through resampling with replacement.
+
+The clusters were pretty sensitive to the data perturbations. I compared each clustering method across each data perterbation to the original analyses. Without mean centering, the adjusted Rand indices were \texttt{0.607} for k-means and \texttt{0.393} for hierarchical clustering. Without resampling or bootstrapping, the adjusted Rand indices were \texttt{0.426} for k-means and \texttt{0.360} for hierarchical clustering. These values also indicate that the k-means clustering method was more stable than hierarchical clustering. 
+
+\section{Conclusion}\label{conclusion}
+
+In considering the findings presented in this report it is important to recognize that the data used in this study is collected from an online survey and we lack information on the methods of respondent recruitment and any data preprocessing steps taken prior to the methods detailed in Section \ref{data-cleaning}. The respondent sample population impacts how representative this data sample of lexical variation is to the true lexical variation across the US. Although the independence of these analyses to extralinguistic features is what does provide value by grouping directly on linguistic features, for these results to generalize it would be necessary to know if there is underlying variation in extralinguistic features of the respondents.
+
+Beyond population, it is also necessary to recognize that we are only focusing on a selective few features of lexical variation that are represented in the 67 questions from this survey. This is an imperfect proxy for the true diversity of lexical variation across all choices of words in a language, both in the selection of questions included and the fixed response options included for each question. Here the data itself is a very selective proxy for reality.
+
+The mental construct created in the clustering of the dimension reduced data is a further abstraction of reality itself. The human judgement calls made in transforming the original data, including removing particular responses with missing fields and scaling the question responses, distance the similarities described by the resulting clusters from real geographic lexical variation. Clustering is also an imperfect construct to capture variation in the continuum that is lexical variation, where language is often understood to change gradually across geography, time, and dialects \cite{nerbonne_introducing_2003}. While clustering is helpful in exploring relative similarity, it can also be a more aligned method for uncovering distinct groups of observations. These properties are explained in the relatively smooth curve shown in the elbow plot in Figure \ref{fig:choose_k} which indicates no clear cluster division boundaries.
+
+Language changes over time \cite{nerbonne_introducing_2003} and the literal future data is not so connected within these analyses that are not temporally situated, however, clustering is in some form an extrapolation of patterns outside of the sample. Here, I conceptualize the future data to be the geographic areas and people that were not directly represented in the sample. Again, the lack of information and control over the respondent recruitment makes this connection weak. 
+
+As a visual reality check, I compared the cluster maps in Figure \ref{fig:kmeans_map} and Figure \ref{fig:hierarchical_map} to the North American English Dialect Map created by linguist Rick Aschmann \cite{aschmann_american_2018}. Visually, the patterns created in the clusters for both methods align fairly well. It would be valuable to consider running additional analyses and clustering on the underlying data for this other map to evaluate the clustering methodology used in this report. 
+
+
+In conclusion, these analyses provided valuable insight into the challenges of clustering lexical variation following dialectometric methods with limited sample data. There were geographic patterns that emerged in the lexical data in the US, clustering the South, the West Coast, the North East, and the Midwest in a consistent way across two different clustering methods. With more time I would have liked to do more exploration with specific questions, especially the questions that explained most of the variation in the first principal component. I also think incorporating actual future data into these analyses to inspect lexical features over time would be a valuable direction. 
+
+\section{Academic Honesty}\label{academic-integrity-statement}
+\subsection{Statement}
+
+Professor Bin Yu, this report is entirely my own and where the work that contributes to it is not my own,
+all sources are properly cited. Learning, both individually and societally, requires active engagement
+to integrate new information with existing information. The process of knowledge acquisition that scientific
+research strives to emulate fundamentally requires honesty as the search for knowledge is also the search
+for some truth. It is important that this commitment to honesty is made at all stages of academic research,
+even when the focus is furthering personal knowledge or developing skills, so the academy as a whole is
+focused on best understanding the lived world.
+
+\subsection{LLM Usage}
+
+After making the initial plots I used suggestions from Claude for the correct syntax to make the visual changes I imagined in the figures and to make tidy tables from the python table outputs. I also used autoformatting and auto-documentation tools when writing my code. For the written report, I  used an LLM tool for a spelling and grammar pass on my final report since I drafted it in an IDE with no built in spellcheck, however I did not use it to edit any of the content or writing of the report. 
+
+\subsection{Collaborators}
+List your collaborators here.
+\section{Bibliography}
+
+\bibliographystyle{plain}
+\bibliography{bib.bib}
+
+\end{document}

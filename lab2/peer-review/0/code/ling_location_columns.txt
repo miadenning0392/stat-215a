@@ -1,0 +1,468 @@
+V4	Q050	1	you all	What word(s) do you use to address a group of two or more people?
+V5	Q050	2	yous, youse	What word(s) do you use to address a group of two or more people?
+V6	Q050	3	you lot	What word(s) do you use to address a group of two or more people?
+V7	Q050	4	you guys	What word(s) do you use to address a group of two or more people?
+V8	Q050	5	you 'uns	What word(s) do you use to address a group of two or more people?
+V9	Q050	6	yins	What word(s) do you use to address a group of two or more people?
+V10	Q050	7	you	What word(s) do you use to address a group of two or more people?
+V11	Q050	8	other	What word(s) do you use to address a group of two or more people?
+V12	Q050	9	y'all	What word(s) do you use to address a group of two or more people?
+V13	Q051	1	yes	Would you say 'Are you coming with?' as a full sentence, to mean 'Are you coming with us?'
+V14	Q051	2	no	Would you say 'Are you coming with?' as a full sentence, to mean 'Are you coming with us?'
+V15	Q051	3	other	Would you say 'Are you coming with?' as a full sentence, to mean 'Are you coming with us?'
+V16	Q052	1	yes	Would you say 'where are you at?' to mean 'where are you?'
+V17	Q052	2	no	Would you say 'where are you at?' to mean 'where are you?'
+V18	Q052	3	I can use "where are you at" in contexts such as asking someone how s/he is coming along on a project, but not in the general sense of "where are you physically located in the world at this moment".	Would you say 'where are you at?' to mean 'where are you?'
+V19	Q053	1	yes (please consider adding which combinations of modals you use in the comments box)	Modals are words like 'can,' 'could,' 'might,' 'ought to,' and so on. Can you use more than one modal at a time? (e.g., 'I might could do that' to mean 'I might be able to do that'; or 'I used to could do that' to mean 'I used to be able to do that')
+V20	Q053	2	no	Modals are words like 'can,' 'could,' 'might,' 'ought to,' and so on. Can you use more than one modal at a time? (e.g., 'I might could do that' to mean 'I might be able to do that'; or 'I used to could do that' to mean 'I used to be able to do that')
+V21	Q053	3	other	Modals are words like 'can,' 'could,' 'might,' 'ought to,' and so on. Can you use more than one modal at a time? (e.g., 'I might could do that' to mean 'I might be able to do that'; or 'I used to could do that' to mean 'I used to be able to do that')
+V22	Q054	1	this use of "anymore" is acceptable	He used to nap on the couch, but he sprawls out in that new lounge chair anymore
+V23	Q054	2	this use of "anymore" is unacceptable	He used to nap on the couch, but he sprawls out in that new lounge chair anymore
+V24	Q054	3	not sure	He used to nap on the couch, but he sprawls out in that new lounge chair anymore
+V25	Q055	1	acceptable	I do exclusively figurative paintings anymore
+V26	Q055	2	unacceptable	I do exclusively figurative paintings anymore
+V27	Q055	3	not sure	I do exclusively figurative paintings anymore
+V28	Q056	1	acceptable	Pantyhose are so expensive anymore that I just try to get a good suntan and forget about it.
+V29	Q056	2	unacceptable	Pantyhose are so expensive anymore that I just try to get a good suntan and forget about it.
+V30	Q056	3	not sure	Pantyhose are so expensive anymore that I just try to get a good suntan and forget about it.
+V31	Q057	1	acceptable	Forget the nice clothes anymore (referring to babies eating messily after a certain age)
+V32	Q057	2	unacceptable	Forget the nice clothes anymore (referring to babies eating messily after a certain age)
+V33	Q057	3	not sure	Forget the nice clothes anymore (referring to babies eating messily after a certain age)
+V34	Q058	1	tag sale	Which of these terms do you prefer for a sale of unwanted items on your porch, in your yard, etc.?
+V35	Q058	2	yard sale	Which of these terms do you prefer for a sale of unwanted items on your porch, in your yard, etc.?
+V36	Q058	3	garage sale	Which of these terms do you prefer for a sale of unwanted items on your porch, in your yard, etc.?
+V37	Q058	4	rummage sale	Which of these terms do you prefer for a sale of unwanted items on your porch, in your yard, etc.?
+V38	Q058	5	thrift sale	Which of these terms do you prefer for a sale of unwanted items on your porch, in your yard, etc.?
+V39	Q058	6	stoop sale	Which of these terms do you prefer for a sale of unwanted items on your porch, in your yard, etc.?
+V40	Q058	7	carport sale	Which of these terms do you prefer for a sale of unwanted items on your porch, in your yard, etc.?
+V41	Q058	8	sidewalk sale	Which of these terms do you prefer for a sale of unwanted items on your porch, in your yard, etc.?
+V42	Q058	9	jumble (sale)	Which of these terms do you prefer for a sale of unwanted items on your porch, in your yard, etc.?
+V43	Q058	10	car boot sale	Which of these terms do you prefer for a sale of unwanted items on your porch, in your yard, etc.?
+V44	Q058	11	car boot	Which of these terms do you prefer for a sale of unwanted items on your porch, in your yard, etc.?
+V45	Q058	12	patio sale	Which of these terms do you prefer for a sale of unwanted items on your porch, in your yard, etc.?
+V46	Q058	13	other	Which of these terms do you prefer for a sale of unwanted items on your porch, in your yard, etc.?
+V47	Q059	1	mumblety-peg	What do you call the game wherein the participants see who can throw a knife closest to the other person (or alternately, get a jackknife to stick into the ground or a piece of wood)?
+V48	Q059	2	mumbledy-peg	What do you call the game wherein the participants see who can throw a knife closest to the other person (or alternately, get a jackknife to stick into the ground or a piece of wood)?
+V49	Q059	3	mumbly peg	What do you call the game wherein the participants see who can throw a knife closest to the other person (or alternately, get a jackknife to stick into the ground or a piece of wood)?
+V50	Q059	4	mumbly pegs	What do you call the game wherein the participants see who can throw a knife closest to the other person (or alternately, get a jackknife to stick into the ground or a piece of wood)?
+V51	Q059	5	mumblely peg (with 2 l's)	What do you call the game wherein the participants see who can throw a knife closest to the other person (or alternately, get a jackknife to stick into the ground or a piece of wood)?
+V52	Q059	6	mumble peg	What do you call the game wherein the participants see who can throw a knife closest to the other person (or alternately, get a jackknife to stick into the ground or a piece of wood)?
+V53	Q059	7	mummety-peg	What do you call the game wherein the participants see who can throw a knife closest to the other person (or alternately, get a jackknife to stick into the ground or a piece of wood)?
+V54	Q059	8	mumble-the-peg	What do you call the game wherein the participants see who can throw a knife closest to the other person (or alternately, get a jackknife to stick into the ground or a piece of wood)?
+V55	Q059	9	fumbledy peg	What do you call the game wherein the participants see who can throw a knife closest to the other person (or alternately, get a jackknife to stick into the ground or a piece of wood)?
+V56	Q059	10	numblety peg	What do you call the game wherein the participants see who can throw a knife closest to the other person (or alternately, get a jackknife to stick into the ground or a piece of wood)?
+V57	Q059	11	peggy	What do you call the game wherein the participants see who can throw a knife closest to the other person (or alternately, get a jackknife to stick into the ground or a piece of wood)?
+V58	Q059	12	baseball jackknife	What do you call the game wherein the participants see who can throw a knife closest to the other person (or alternately, get a jackknife to stick into the ground or a piece of wood)?
+V59	Q059	13	stick-knife	What do you call the game wherein the participants see who can throw a knife closest to the other person (or alternately, get a jackknife to stick into the ground or a piece of wood)?
+V60	Q059	14	stick-frog	What do you call the game wherein the participants see who can throw a knife closest to the other person (or alternately, get a jackknife to stick into the ground or a piece of wood)?
+V61	Q059	15	stretch	What do you call the game wherein the participants see who can throw a knife closest to the other person (or alternately, get a jackknife to stick into the ground or a piece of wood)?
+V62	Q059	16	chicken	What do you call the game wherein the participants see who can throw a knife closest to the other person (or alternately, get a jackknife to stick into the ground or a piece of wood)?
+V63	Q059	17	knifey	What do you call the game wherein the participants see who can throw a knife closest to the other person (or alternately, get a jackknife to stick into the ground or a piece of wood)?
+V64	Q059	18	splits	What do you call the game wherein the participants see who can throw a knife closest to the other person (or alternately, get a jackknife to stick into the ground or a piece of wood)?
+V65	Q059	19	Russian roulette	What do you call the game wherein the participants see who can throw a knife closest to the other person (or alternately, get a jackknife to stick into the ground or a piece of wood)?
+V66	Q059	20	I have never heard of this "game" and have no idea what it's called	What do you call the game wherein the participants see who can throw a knife closest to the other person (or alternately, get a jackknife to stick into the ground or a piece of wood)?
+V67	Q059	21	other (state here if you have heard one or more of these terms but never knew what they meant)	What do you call the game wherein the participants see who can throw a knife closest to the other person (or alternately, get a jackknife to stick into the ground or a piece of wood)?
+V68	Q060	1	berm	What do you call the area of grass between the sidewalk and the road?
+V69	Q060	2	parking	What do you call the area of grass between the sidewalk and the road?
+V70	Q060	3	tree lawn	What do you call the area of grass between the sidewalk and the road?
+V71	Q060	4	terrace	What do you call the area of grass between the sidewalk and the road?
+V72	Q060	5	curb strip	What do you call the area of grass between the sidewalk and the road?
+V73	Q060	6	beltway	What do you call the area of grass between the sidewalk and the road?
+V74	Q060	7	verge	What do you call the area of grass between the sidewalk and the road?
+V75	Q060	8	I have no word for this	What do you call the area of grass between the sidewalk and the road?
+V76	Q060	9	other	What do you call the area of grass between the sidewalk and the road?
+V77	Q061	1	boulevard	What do you call the area of grass that occurs in the middle of some streets?
+V78	Q061	2	midway	What do you call the area of grass that occurs in the middle of some streets?
+V79	Q061	3	traffic island	What do you call the area of grass that occurs in the middle of some streets?
+V80	Q061	4	island	What do you call the area of grass that occurs in the middle of some streets?
+V81	Q061	5	neutral ground	What do you call the area of grass that occurs in the middle of some streets?
+V82	Q061	6	I have no word for this	What do you call the area of grass that occurs in the middle of some streets?
+V83	Q061	7	other	What do you call the area of grass that occurs in the middle of some streets?
+V84	Q062	1	median strip	What do you call the long narrow place in the middle of a divided highway?
+V85	Q062	2	median	What do you call the long narrow place in the middle of a divided highway?
+V86	Q062	3	boulevard	What do you call the long narrow place in the middle of a divided highway?
+V87	Q062	4	mall	What do you call the long narrow place in the middle of a divided highway?
+V88	Q062	5	traffic island	What do you call the long narrow place in the middle of a divided highway?
+V89	Q062	6	neutral ground	What do you call the long narrow place in the middle of a divided highway?
+V90	Q062	7	island	What do you call the long narrow place in the middle of a divided highway?
+V91	Q062	8	park strip	What do you call the long narrow place in the middle of a divided highway?
+V92	Q062	9	I have no word for this	What do you call the long narrow place in the middle of a divided highway?
+V93	Q062	10	other	What do you call the long narrow place in the middle of a divided highway?
+V94	Q063	1	milkshake/shake	What do you call the drink made with milk and ice cream?
+V95	Q063	2	frappe	What do you call the drink made with milk and ice cream?
+V96	Q063	3	cabinet	What do you call the drink made with milk and ice cream?
+V97	Q063	4	velvet	What do you call the drink made with milk and ice cream?
+V98	Q063	5	thick shake	What do you call the drink made with milk and ice cream?
+V99	Q063	6	other	What do you call the drink made with milk and ice cream?
+V100	Q064	1	sub	What do you call the long sandwich that contains cold cuts, lettuce, and so on?
+V101	Q064	2	grinder	What do you call the long sandwich that contains cold cuts, lettuce, and so on?
+V102	Q064	3	hoagie	What do you call the long sandwich that contains cold cuts, lettuce, and so on?
+V103	Q064	4	hero	What do you call the long sandwich that contains cold cuts, lettuce, and so on?
+V104	Q064	5	poor boy	What do you call the long sandwich that contains cold cuts, lettuce, and so on?
+V105	Q064	6	bomber	What do you call the long sandwich that contains cold cuts, lettuce, and so on?
+V106	Q064	7	Italian sandwich	What do you call the long sandwich that contains cold cuts, lettuce, and so on?
+V107	Q064	8	baguette	What do you call the long sandwich that contains cold cuts, lettuce, and so on?
+V108	Q064	9	sarney	What do you call the long sandwich that contains cold cuts, lettuce, and so on?
+V109	Q064	10	I have no word for this	What do you call the long sandwich that contains cold cuts, lettuce, and so on?
+V110	Q064	11	other	What do you call the long sandwich that contains cold cuts, lettuce, and so on?
+V111	Q065	1	lightning bug	What do you call the insect that flies around in the summer and has a rear section that glows in the dark?
+V112	Q065	2	firefly	What do you call the insect that flies around in the summer and has a rear section that glows in the dark?
+V113	Q065	3	I use lightning bug and firefly interchangeably	What do you call the insect that flies around in the summer and has a rear section that glows in the dark?
+V114	Q065	4	peenie wallie	What do you call the insect that flies around in the summer and has a rear section that glows in the dark?
+V115	Q065	5	I have no word for this	What do you call the insect that flies around in the summer and has a rear section that glows in the dark?
+V116	Q065	6	other	What do you call the insect that flies around in the summer and has a rear section that glows in the dark?
+V117	Q066	1	crawfish	What do you call the miniature lobster that one finds in lakes and streams for example (a crustacean of the family Astacidae)?
+V118	Q066	2	crayfish	What do you call the miniature lobster that one finds in lakes and streams for example (a crustacean of the family Astacidae)?
+V119	Q066	3	craw	What do you call the miniature lobster that one finds in lakes and streams for example (a crustacean of the family Astacidae)?
+V120	Q066	4	crowfish	What do you call the miniature lobster that one finds in lakes and streams for example (a crustacean of the family Astacidae)?
+V121	Q066	5	crawdad	What do you call the miniature lobster that one finds in lakes and streams for example (a crustacean of the family Astacidae)?
+V122	Q066	6	mudbug	What do you call the miniature lobster that one finds in lakes and streams for example (a crustacean of the family Astacidae)?
+V123	Q066	7	I have no word for this critter	What do you call the miniature lobster that one finds in lakes and streams for example (a crustacean of the family Astacidae)?
+V124	Q066	8	other	What do you call the miniature lobster that one finds in lakes and streams for example (a crustacean of the family Astacidae)?
+V125	Q067	1	daddy long leg(s)	What do you call the kind of spider (or spider-like creature) that has an oval-shaped body and extremely long legs?
+V126	Q067	2	daddy big legs	What do you call the kind of spider (or spider-like creature) that has an oval-shaped body and extremely long legs?
+V127	Q067	3	daddy (bug)	What do you call the kind of spider (or spider-like creature) that has an oval-shaped body and extremely long legs?
+V128	Q067	4	father longlegs	What do you call the kind of spider (or spider-like creature) that has an oval-shaped body and extremely long legs?
+V129	Q067	5	granddaddy	What do you call the kind of spider (or spider-like creature) that has an oval-shaped body and extremely long legs?
+V130	Q067	6	daddy graybeard	What do you call the kind of spider (or spider-like creature) that has an oval-shaped body and extremely long legs?
+V131	Q067	7	daddy spider	What do you call the kind of spider (or spider-like creature) that has an oval-shaped body and extremely long legs?
+V132	Q067	8	harvestman	What do you call the kind of spider (or spider-like creature) that has an oval-shaped body and extremely long legs?
+V133	Q067	9	moskeet spider	What do you call the kind of spider (or spider-like creature) that has an oval-shaped body and extremely long legs?
+V134	Q067	10	pointer	What do you call the kind of spider (or spider-like creature) that has an oval-shaped body and extremely long legs?
+V135	Q067	11	shepherd spider	What do you call the kind of spider (or spider-like creature) that has an oval-shaped body and extremely long legs?
+V136	Q067	12	other	What do you call the kind of spider (or spider-like creature) that has an oval-shaped body and extremely long legs?
+V137	Q068	1	grandmother	What nicknames do/did you use for your maternal grandmother?
+V138	Q068	2	granny	What nicknames do/did you use for your maternal grandmother?
+V139	Q068	3	grandma	What nicknames do/did you use for your maternal grandmother?
+V140	Q068	4	nana	What nicknames do/did you use for your maternal grandmother?
+V141	Q068	5	mimi	What nicknames do/did you use for your maternal grandmother?
+V142	Q068	6	grammy/grammie/grammi	What nicknames do/did you use for your maternal grandmother?
+V143	Q068	7	other	What nicknames do/did you use for your maternal grandmother?
+V144	Q069	1	grandmother	What about your paternal grandmother (is there a distinction?)
+V145	Q069	2	granny	What about your paternal grandmother (is there a distinction?)
+V146	Q069	3	grandma	What about your paternal grandmother (is there a distinction?)
+V147	Q069	4	gramma	What about your paternal grandmother (is there a distinction?)
+V148	Q069	5	nana	What about your paternal grandmother (is there a distinction?)
+V149	Q069	6	other	What about your paternal grandmother (is there a distinction?)
+V150	Q070	1	gramps	What do/did you call your maternal grandfather?
+V151	Q070	2	grandpa	What do/did you call your maternal grandfather?
+V152	Q070	3	grampa	What do/did you call your maternal grandfather?
+V153	Q070	4	grandad, granddad	What do/did you call your maternal grandfather?
+V154	Q070	5	pap	What do/did you call your maternal grandfather?
+V155	Q070	6	I spell it 'grandpa' but pronounce it as 'grampa'	What do/did you call your maternal grandfather?
+V156	Q070	7	other (including if you use a different term to address him directly than you do when speaking about him to a third party)	What do/did you call your maternal grandfather?
+V157	Q071	1	gramps	paternal grandfather?
+V158	Q071	2	grandpa	paternal grandfather?
+V159	Q071	3	grampa	paternal grandfather?
+V160	Q071	4	pap	paternal grandfather?
+V161	Q071	5	other	paternal grandfather?
+V162	Q072	1	dust bunnies	What do you call the big clumps of dust that gather under furniture and in corners?
+V163	Q072	2	dust kittens	What do you call the big clumps of dust that gather under furniture and in corners?
+V164	Q072	3	dust mice	What do you call the big clumps of dust that gather under furniture and in corners?
+V165	Q072	4	kitties	What do you call the big clumps of dust that gather under furniture and in corners?
+V166	Q072	5	dust balls	What do you call the big clumps of dust that gather under furniture and in corners?
+V167	Q072	6	other	What do you call the big clumps of dust that gather under furniture and in corners?
+V168	Q073	1	sneakers	What is your *general* term for the rubber-soled shoes worn in gym class, for athletic activities, etc.?
+V169	Q073	2	shoes	What is your *general* term for the rubber-soled shoes worn in gym class, for athletic activities, etc.?
+V170	Q073	3	gymshoes	What is your *general* term for the rubber-soled shoes worn in gym class, for athletic activities, etc.?
+V171	Q073	4	sand shoes	What is your *general* term for the rubber-soled shoes worn in gym class, for athletic activities, etc.?
+V172	Q073	5	jumpers	What is your *general* term for the rubber-soled shoes worn in gym class, for athletic activities, etc.?
+V173	Q073	6	tennis shoes	What is your *general* term for the rubber-soled shoes worn in gym class, for athletic activities, etc.?
+V174	Q073	7	running shoes	What is your *general* term for the rubber-soled shoes worn in gym class, for athletic activities, etc.?
+V175	Q073	8	runners	What is your *general* term for the rubber-soled shoes worn in gym class, for athletic activities, etc.?
+V176	Q073	9	trainers	What is your *general* term for the rubber-soled shoes worn in gym class, for athletic activities, etc.?
+V177	Q073	10	I have no general word for this	What is your *general* term for the rubber-soled shoes worn in gym class, for athletic activities, etc.?
+V178	Q073	11	other	What is your *general* term for the rubber-soled shoes worn in gym class, for athletic activities, etc.?
+V179	Q074	1	pill bug	What do you call the little gray creature (that looks like an insect but is actually a crustacean) that rolls up into a ball when you touch it?
+V180	Q074	2	doodle bug	What do you call the little gray creature (that looks like an insect but is actually a crustacean) that rolls up into a ball when you touch it?
+V181	Q074	3	potato bug	What do you call the little gray creature (that looks like an insect but is actually a crustacean) that rolls up into a ball when you touch it?
+V182	Q074	4	roly poly	What do you call the little gray creature (that looks like an insect but is actually a crustacean) that rolls up into a ball when you touch it?
+V183	Q074	5	sow bug	What do you call the little gray creature (that looks like an insect but is actually a crustacean) that rolls up into a ball when you touch it?
+V184	Q074	6	basketball bug	What do you call the little gray creature (that looks like an insect but is actually a crustacean) that rolls up into a ball when you touch it?
+V185	Q074	7	twiddle bug	What do you call the little gray creature (that looks like an insect but is actually a crustacean) that rolls up into a ball when you touch it?
+V186	Q074	8	roll-up bug	What do you call the little gray creature (that looks like an insect but is actually a crustacean) that rolls up into a ball when you touch it?
+V187	Q074	9	wood louse	What do you call the little gray creature (that looks like an insect but is actually a crustacean) that rolls up into a ball when you touch it?
+V188	Q074	10	millipede	What do you call the little gray creature (that looks like an insect but is actually a crustacean) that rolls up into a ball when you touch it?
+V189	Q074	11	centipede	What do you call the little gray creature (that looks like an insect but is actually a crustacean) that rolls up into a ball when you touch it?
+V190	Q074	12	I know what this creature is, but have no word for it	What do you call the little gray creature (that looks like an insect but is actually a crustacean) that rolls up into a ball when you touch it?
+V191	Q074	13	I have no idea what this creature is	What do you call the little gray creature (that looks like an insect but is actually a crustacean) that rolls up into a ball when you touch it?
+V192	Q074	14	other	What do you call the little gray creature (that looks like an insect but is actually a crustacean) that rolls up into a ball when you touch it?
+V193	Q075	1	shopping cart	What do you call the wheeled contraption in which you carry groceries at the supermarket?
+V194	Q075	2	shopping wagon	What do you call the wheeled contraption in which you carry groceries at the supermarket?
+V195	Q075	3	grocery cart	What do you call the wheeled contraption in which you carry groceries at the supermarket?
+V196	Q075	4	shopping carriage	What do you call the wheeled contraption in which you carry groceries at the supermarket?
+V197	Q075	5	carriage	What do you call the wheeled contraption in which you carry groceries at the supermarket?
+V198	Q075	6	buggy	What do you call the wheeled contraption in which you carry groceries at the supermarket?
+V199	Q075	7	supermarket trolley	What do you call the wheeled contraption in which you carry groceries at the supermarket?
+V200	Q075	8	other	What do you call the wheeled contraption in which you carry groceries at the supermarket?
+V201	Q076	1	kitty-corner	What term do you use to refer to something that is across both streets from you at an intersection (or diagonally across from you in general)?
+V202	Q076	2	kitacorner	What term do you use to refer to something that is across both streets from you at an intersection (or diagonally across from you in general)?
+V203	Q076	3	catercorner	What term do you use to refer to something that is across both streets from you at an intersection (or diagonally across from you in general)?
+V204	Q076	4	catty-corner	What term do you use to refer to something that is across both streets from you at an intersection (or diagonally across from you in general)?
+V205	Q076	5	kitty cross	What term do you use to refer to something that is across both streets from you at an intersection (or diagonally across from you in general)?
+V206	Q076	6	kitty wampus	What term do you use to refer to something that is across both streets from you at an intersection (or diagonally across from you in general)?
+V207	Q076	7	I can only use 'diagonal' for this	What term do you use to refer to something that is across both streets from you at an intersection (or diagonally across from you in general)?
+V208	Q076	8	I have no term for this	What term do you use to refer to something that is across both streets from you at an intersection (or diagonally across from you in general)?
+V209	Q076	9	other	What term do you use to refer to something that is across both streets from you at an intersection (or diagonally across from you in general)?
+V210	Q077	1	doing donuts	What do you call the activity of driving around in circles in a car?
+V211	Q077	2	doing cookies	What do you call the activity of driving around in circles in a car?
+V212	Q077	3	whipping shitties	What do you call the activity of driving around in circles in a car?
+V213	Q077	4	other	What do you call the activity of driving around in circles in a car?
+V214	Q078	1	scratch paper	What do you call paper that has already been used for something or is otherwise imperfect?
+V215	Q078	2	scrap paper	What do you call paper that has already been used for something or is otherwise imperfect?
+V216	Q078	3	scratch paper is still usable (for example, the paper you bring to do extra work on a test); scrap paper is paper that isn't needed anymore and can be thrown away.	What do you call paper that has already been used for something or is otherwise imperfect?
+V217	Q078	4	other	What do you call paper that has already been used for something or is otherwise imperfect?
+V218	Q079	1	highway	What is your *general* term for a big road that you drive relatively fast on?
+V219	Q079	2	freeway	What is your *general* term for a big road that you drive relatively fast on?
+V220	Q079	3	parkway	What is your *general* term for a big road that you drive relatively fast on?
+V221	Q079	4	turnpike	What is your *general* term for a big road that you drive relatively fast on?
+V222	Q079	5	expressway	What is your *general* term for a big road that you drive relatively fast on?
+V223	Q079	6	throughway/thru-way	What is your *general* term for a big road that you drive relatively fast on?
+V224	Q079	7	a freeway is bigger than a highway	What is your *general* term for a big road that you drive relatively fast on?
+V225	Q079	8	a freeway is free (i.e., doesn't charge tolls); a highway isn't	What is your *general* term for a big road that you drive relatively fast on?
+V226	Q079	9	a freeway has limited access (no stop lights, no intersections), whereas a highway can have stop lights and intersections	What is your *general* term for a big road that you drive relatively fast on?
+V227	Q079	10	other	What is your *general* term for a big road that you drive relatively fast on?
+V228	Q080	1	sunshower	What do you call it when rain falls while the sun is shining?
+V229	Q080	2	the wolf is giving birth	What do you call it when rain falls while the sun is shining?
+V230	Q080	3	the devil is beating his wife	What do you call it when rain falls while the sun is shining?
+V231	Q080	4	monkey's wedding	What do you call it when rain falls while the sun is shining?
+V232	Q080	5	fox's wedding	What do you call it when rain falls while the sun is shining?
+V233	Q080	6	pineapple rain	What do you call it when rain falls while the sun is shining?
+V234	Q080	7	liquid sun	What do you call it when rain falls while the sun is shining?
+V235	Q080	8	I have no term or expression for this	What do you call it when rain falls while the sun is shining?
+V236	Q080	9	other	What do you call it when rain falls while the sun is shining?
+V237	Q081	1	goose bumps	When you are cold, and little points of skin begin to come on your arms and legs, you have-
+V238	Q081	2	goose flesh	When you are cold, and little points of skin begin to come on your arms and legs, you have-
+V239	Q081	3	goose pimples	When you are cold, and little points of skin begin to come on your arms and legs, you have-
+V240	Q081	4	chill bumps	When you are cold, and little points of skin begin to come on your arms and legs, you have-
+V241	Q081	5	chill bugs	When you are cold, and little points of skin begin to come on your arms and legs, you have-
+V242	Q081	6	chilly bumps	When you are cold, and little points of skin begin to come on your arms and legs, you have-
+V243	Q081	7	cold-chill bumps	When you are cold, and little points of skin begin to come on your arms and legs, you have-
+V244	Q081	8	other	When you are cold, and little points of skin begin to come on your arms and legs, you have-
+V245	Q082	1	crackling	What do you call the gooey or dry matter that collects in the corners of your eyes, especially while you are sleeping?
+V246	Q082	2	sleep	What do you call the gooey or dry matter that collects in the corners of your eyes, especially while you are sleeping?
+V247	Q082	3	sleeper	What do you call the gooey or dry matter that collects in the corners of your eyes, especially while you are sleeping?
+V248	Q082	4	sleepy	What do you call the gooey or dry matter that collects in the corners of your eyes, especially while you are sleeping?
+V249	Q082	5	sleepies	What do you call the gooey or dry matter that collects in the corners of your eyes, especially while you are sleeping?
+V250	Q082	6	sleepy seed	What do you call the gooey or dry matter that collects in the corners of your eyes, especially while you are sleeping?
+V251	Q082	7	sleepy bugs	What do you call the gooey or dry matter that collects in the corners of your eyes, especially while you are sleeping?
+V252	Q082	8	eye booger	What do you call the gooey or dry matter that collects in the corners of your eyes, especially while you are sleeping?
+V253	Q082	9	eye shit	What do you call the gooey or dry matter that collects in the corners of your eyes, especially while you are sleeping?
+V254	Q082	10	eye crunchie	What do you call the gooey or dry matter that collects in the corners of your eyes, especially while you are sleeping?
+V255	Q082	11	eye crusties	What do you call the gooey or dry matter that collects in the corners of your eyes, especially while you are sleeping?
+V256	Q082	12	sand	What do you call the gooey or dry matter that collects in the corners of your eyes, especially while you are sleeping?
+V257	Q082	13	kitty	What do you call the gooey or dry matter that collects in the corners of your eyes, especially while you are sleeping?
+V258	Q082	14	gunk	What do you call the gooey or dry matter that collects in the corners of your eyes, especially while you are sleeping?
+V259	Q082	15	matter	What do you call the gooey or dry matter that collects in the corners of your eyes, especially while you are sleeping?
+V260	Q082	16	I have no word for this	What do you call the gooey or dry matter that collects in the corners of your eyes, especially while you are sleeping?
+V261	Q082	17	other	What do you call the gooey or dry matter that collects in the corners of your eyes, especially while you are sleeping?
+V262	Q083	1	gut	What do you call an easy course?
+V263	Q083	2	crypt course	What do you call an easy course?
+V264	Q083	3	crip course	What do you call an easy course?
+V265	Q083	4	bird	What do you call an easy course?
+V266	Q083	5	blow-off	What do you call an easy course?
+V267	Q083	6	meat	What do you call an easy course?
+V268	Q083	7	other	What do you call an easy course?
+V269	Q084	1	rotary	What do you call a traffic situation in which several roads meet in a circle and you have to get off at a certain point?
+V270	Q084	2	roundabout	What do you call a traffic situation in which several roads meet in a circle and you have to get off at a certain point?
+V271	Q084	3	circle	What do you call a traffic situation in which several roads meet in a circle and you have to get off at a certain point?
+V272	Q084	4	traffic circle	What do you call a traffic situation in which several roads meet in a circle and you have to get off at a certain point?
+V273	Q084	5	traffic circus	What do you call a traffic situation in which several roads meet in a circle and you have to get off at a certain point?
+V274	Q084	6	I have no word for this	What do you call a traffic situation in which several roads meet in a circle and you have to get off at a certain point?
+V275	Q084	7	other	What do you call a traffic situation in which several roads meet in a circle and you have to get off at a certain point?
+V276	Q085	1	(hair) elastic	What is the thing that women use to tie their hair?
+V277	Q085	2	rubber band	What is the thing that women use to tie their hair?
+V278	Q085	3	horsetail	What is the thing that women use to tie their hair?
+V279	Q085	4	hair thing	What is the thing that women use to tie their hair?
+V280	Q085	5	hair tie	What is the thing that women use to tie their hair?
+V281	Q085	6	other	What is the thing that women use to tie their hair?
+V282	Q086	1	yes	Do you use the word cruller?
+V283	Q086	2	no, but I know what it means	Do you use the word cruller?
+V284	Q086	3	I have no idea what this means	Do you use the word cruller?
+V285	Q087	1	yes	Do you use the term 'bear claw' for a kind of pastry?
+V286	Q087	2	no, but I know what it means	Do you use the term 'bear claw' for a kind of pastry?
+V287	Q087	3	I have no idea what this means	Do you use the term 'bear claw' for a kind of pastry?
+V288	Q088	1	duck-footed	What do you call someone who is the opposite of pigeon-toed (i.e. when they walk their feet point outwards)?
+V289	Q088	2	slue-footed	What do you call someone who is the opposite of pigeon-toed (i.e. when they walk their feet point outwards)?
+V290	Q088	3	splay-footed	What do you call someone who is the opposite of pigeon-toed (i.e. when they walk their feet point outwards)?
+V291	Q088	4	bow-legged	What do you call someone who is the opposite of pigeon-toed (i.e. when they walk their feet point outwards)?
+V292	Q088	5	toed out	What do you call someone who is the opposite of pigeon-toed (i.e. when they walk their feet point outwards)?
+V293	Q088	6	other	What do you call someone who is the opposite of pigeon-toed (i.e. when they walk their feet point outwards)?
+V294	Q088	7	I have no word for this	What do you call someone who is the opposite of pigeon-toed (i.e. when they walk their feet point outwards)?
+V295	Q089	1	yes	Can you call coleslaw 'slaw'?
+V296	Q089	2	yes, but I can also use it in other forms such as apple slaw or broccoli slaw	Can you call coleslaw 'slaw'?
+V297	Q089	3	no	Can you call coleslaw 'slaw'?
+V298	Q089	4	I have never heard that usage before	Can you call coleslaw 'slaw'?
+V299	Q089	5	other	Can you call coleslaw 'slaw'?
+V300	Q090	1	coffin	What do you call the box you bury a dead person in?
+V301	Q090	2	casket	What do you call the box you bury a dead person in?
+V302	Q090	3	a coffin and a casket are not the same, and I know the difference	What do you call the box you bury a dead person in?
+V303	Q090	4	other	What do you call the box you bury a dead person in?
+V304	Q091	1	vinegar and oil	Do you say 'vinegar and oil' or 'oil and vinegar' for the type of salad dressing?
+V305	Q091	2	oil and vinegar	Do you say 'vinegar and oil' or 'oil and vinegar' for the type of salad dressing?
+V306	Q091	3	both sound equally good to me	Do you say 'vinegar and oil' or 'oil and vinegar' for the type of salad dressing?
+V307	Q091	4	neither	Do you say 'vinegar and oil' or 'oil and vinegar' for the type of salad dressing?
+V308	Q091	5	other	Do you say 'vinegar and oil' or 'oil and vinegar' for the type of salad dressing?
+V309	Q092	1	Chinese lane change	What do you call it when a driver changes over one or more lanes way too quickly?
+V310	Q092	2	Chinese fire drill	What do you call it when a driver changes over one or more lanes way too quickly?
+V311	Q092	3	other	What do you call it when a driver changes over one or more lanes way too quickly?
+V312	Q093	1	on line	When you stand outside with a long line of people waiting to get in somewhere, are you standing 'in line' or 'on line' (as in, 'I stood ___ in the cold for two hours before they opened the doors')?
+V313	Q093	2	in line	When you stand outside with a long line of people waiting to get in somewhere, are you standing 'in line' or 'on line' (as in, 'I stood ___ in the cold for two hours before they opened the doors')?
+V314	Q093	3	both sound equally good	When you stand outside with a long line of people waiting to get in somewhere, are you standing 'in line' or 'on line' (as in, 'I stood ___ in the cold for two hours before they opened the doors')?
+V315	Q093	4	neither	When you stand outside with a long line of people waiting to get in somewhere, are you standing 'in line' or 'on line' (as in, 'I stood ___ in the cold for two hours before they opened the doors')?
+V316	Q093	5	other	When you stand outside with a long line of people waiting to get in somewhere, are you standing 'in line' or 'on line' (as in, 'I stood ___ in the cold for two hours before they opened the doors')?
+V317	Q094	1	frosting	Do you say 'frosting' or 'icing' for the sweet spread one puts on a cake?
+V318	Q094	2	icing	Do you say 'frosting' or 'icing' for the sweet spread one puts on a cake?
+V319	Q094	3	icing is thinner than frosting, white, and/or made of powdered sugar and milk or lemon juice	Do you say 'frosting' or 'icing' for the sweet spread one puts on a cake?
+V320	Q094	4	both	Do you say 'frosting' or 'icing' for the sweet spread one puts on a cake?
+V321	Q094	5	neither	Do you say 'frosting' or 'icing' for the sweet spread one puts on a cake?
+V322	Q094	6	other	Do you say 'frosting' or 'icing' for the sweet spread one puts on a cake?
+V323	Q095	1	New York City	What is 'the City'?
+V324	Q095	2	Boston	What is 'the City'?
+V325	Q095	3	DC	What is 'the City'?
+V326	Q095	4	LA	What is 'the City'?
+V327	Q095	5	Chicago	What is 'the City'?
+V328	Q095	6	other	What is 'the City'?
+V329	Q096	1	supper is an evening meal while dinner is eaten earlier (lunch, for example)	What is the distinction between dinner and supper?
+V330	Q096	2	supper is an evening meal, dinner is the main meal	What is the distinction between dinner and supper?
+V331	Q096	3	dinner takes place in a more formal setting than supper	What is the distinction between dinner and supper?
+V332	Q096	4	there is no distinction; they both have the same meaning	What is the distinction between dinner and supper?
+V333	Q096	5	I do not use the term supper	What is the distinction between dinner and supper?
+V334	Q096	6	I don't use the term dinner	What is the distinction between dinner and supper?
+V335	Q096	7	other	What is the distinction between dinner and supper?
+V336	Q097	1	trash can	Which of these terms do you prefer?
+V337	Q097	2	garbage can	Which of these terms do you prefer?
+V338	Q097	3	rubbish bin	Which of these terms do you prefer?
+V339	Q097	4	waste(paper) basket	Which of these terms do you prefer?
+V340	Q097	5	These words refer to different things	Which of these terms do you prefer?
+V341	Q097	6	other	Which of these terms do you prefer?
+V342	Q098	1	By accident	Which of these terms do you prefer?
+V343	Q098	2	On accident	Which of these terms do you prefer?
+V344	Q098	3	both	Which of these terms do you prefer?
+V345	Q098	4	neither	Which of these terms do you prefer?
+V346	Q098	5	other	Which of these terms do you prefer?
+V347	Q099	1	frontage road	Which of these terms do you prefer for the small road parallel to the highway?
+V348	Q099	2	service road	Which of these terms do you prefer for the small road parallel to the highway?
+V349	Q099	3	access road	Which of these terms do you prefer for the small road parallel to the highway?
+V350	Q099	4	feeder road	Which of these terms do you prefer for the small road parallel to the highway?
+V351	Q099	5	gateway	Which of these terms do you prefer for the small road parallel to the highway?
+V352	Q099	6	we have them but I have no word for them	Which of these terms do you prefer for the small road parallel to the highway?
+V353	Q099	7	I've never heard of this concept	Which of these terms do you prefer for the small road parallel to the highway?
+V354	Q099	8	other	Which of these terms do you prefer for the small road parallel to the highway?
+V355	Q100	1	cut the grass	Do you cut or mow the lawn or grass?
+V356	Q100	2	cut the lawn	Do you cut or mow the lawn or grass?
+V357	Q100	3	mow the grass	Do you cut or mow the lawn or grass?
+V358	Q100	4	mow the lawn	Do you cut or mow the lawn or grass?
+V359	Q100	5	other	Do you cut or mow the lawn or grass?
+V360	Q101	1	pass in	Do you pass in homework or hand in homework?
+V361	Q101	2	hand in	Do you pass in homework or hand in homework?
+V362	Q101	3	both	Do you pass in homework or hand in homework?
+V363	Q101	4	neither	Do you pass in homework or hand in homework?
+V364	Q101	5	other	Do you pass in homework or hand in homework?
+V365	Q102	1	waterbug	What do you call the insect that looks like a large thin spider and skitters along the top of water?
+V366	Q102	2	Jesus bug	What do you call the insect that looks like a large thin spider and skitters along the top of water?
+V367	Q102	3	waterstrider	What do you call the insect that looks like a large thin spider and skitters along the top of water?
+V368	Q102	4	strider	What do you call the insect that looks like a large thin spider and skitters along the top of water?
+V369	Q102	5	water-spider	What do you call the insect that looks like a large thin spider and skitters along the top of water?
+V370	Q102	6	watercrawler	What do you call the insect that looks like a large thin spider and skitters along the top of water?
+V371	Q102	7	water beetle	What do you call the insect that looks like a large thin spider and skitters along the top of water?
+V372	Q102	8	backstrider	What do you call the insect that looks like a large thin spider and skitters along the top of water?
+V373	Q102	9	skimmer	What do you call the insect that looks like a large thin spider and skitters along the top of water?
+V374	Q102	10	I have no word for this	What do you call the insect that looks like a large thin spider and skitters along the top of water?
+V375	Q102	11	other	What do you call the insect that looks like a large thin spider and skitters along the top of water?
+V376	Q103	1	bubbler	What do you call the thing from which you might drink water in a school?
+V377	Q103	2	water bubbler	What do you call the thing from which you might drink water in a school?
+V378	Q103	3	drinking fountain	What do you call the thing from which you might drink water in a school?
+V379	Q103	4	water fountain	What do you call the thing from which you might drink water in a school?
+V380	Q103	5	other	What do you call the thing from which you might drink water in a school?
+V381	Q104	1	the subway	What do you call a public railway system (normally underground)?
+V382	Q104	2	the L, or the El	What do you call a public railway system (normally underground)?
+V383	Q104	3	the T	What do you call a public railway system (normally underground)?
+V384	Q104	4	the metro	What do you call a public railway system (normally underground)?
+V385	Q104	5	BART	What do you call a public railway system (normally underground)?
+V386	Q104	6	other	What do you call a public railway system (normally underground)?
+V387	Q105	1	soda	What is your generic term for a sweetened carbonated beverage?
+V388	Q105	2	pop	What is your generic term for a sweetened carbonated beverage?
+V389	Q105	3	coke	What is your generic term for a sweetened carbonated beverage?
+V390	Q105	4	tonic	What is your generic term for a sweetened carbonated beverage?
+V391	Q105	5	soft drink	What is your generic term for a sweetened carbonated beverage?
+V392	Q105	6	lemonade	What is your generic term for a sweetened carbonated beverage?
+V393	Q105	7	cocola	What is your generic term for a sweetened carbonated beverage?
+V394	Q105	8	fizzy drink	What is your generic term for a sweetened carbonated beverage?
+V395	Q105	9	dope	What is your generic term for a sweetened carbonated beverage?
+V396	Q105	10	other	What is your generic term for a sweetened carbonated beverage?
+V397	Q106	1	tp'ing	What do you call the act of covering a house or area in front of a house with toilet paper?
+V398	Q106	2	rolling	What do you call the act of covering a house or area in front of a house with toilet paper?
+V399	Q106	3	toilet papering	What do you call the act of covering a house or area in front of a house with toilet paper?
+V400	Q106	4	wrapping	What do you call the act of covering a house or area in front of a house with toilet paper?
+V401	Q106	5	papering	What do you call the act of covering a house or area in front of a house with toilet paper?
+V402	Q106	6	bog rolling	What do you call the act of covering a house or area in front of a house with toilet paper?
+V403	Q106	7	I have no word for this	What do you call the act of covering a house or area in front of a house with toilet paper?
+V404	Q106	8	other	What do you call the act of covering a house or area in front of a house with toilet paper?
+V405	Q107	1	rubberneck	What do you call a traffic jam caused by drivers slowing down to look at an accident or other diversion on the side of the road?
+V406	Q107	2	rubbernecking	What do you call a traffic jam caused by drivers slowing down to look at an accident or other diversion on the side of the road?
+V407	Q107	3	rubbernecking is the activity (slowing down and gawking) that causes the traffic jam, but I have no word for the traffic jam itself	What do you call a traffic jam caused by drivers slowing down to look at an accident or other diversion on the side of the road?
+V408	Q107	4	gapers' block	What do you call a traffic jam caused by drivers slowing down to look at an accident or other diversion on the side of the road?
+V409	Q107	5	gapers' delay	What do you call a traffic jam caused by drivers slowing down to look at an accident or other diversion on the side of the road?
+V410	Q107	6	Lookie Lou	What do you call a traffic jam caused by drivers slowing down to look at an accident or other diversion on the side of the road?
+V411	Q107	7	curiosity delay	What do you call a traffic jam caused by drivers slowing down to look at an accident or other diversion on the side of the road?
+V412	Q107	8	gawk block	What do you call a traffic jam caused by drivers slowing down to look at an accident or other diversion on the side of the road?
+V413	Q107	9	I have no word for this	What do you call a traffic jam caused by drivers slowing down to look at an accident or other diversion on the side of the road?
+V414	Q107	10	other	What do you call a traffic jam caused by drivers slowing down to look at an accident or other diversion on the side of the road?
+V415	Q109	1	bag	What do you call the paper container in which you might bring home items you bought at the store?
+V416	Q109	2	sack	What do you call the paper container in which you might bring home items you bought at the store?
+V417	Q109	3	poke	What do you call the paper container in which you might bring home items you bought at the store?
+V418	Q109	4	other	What do you call the paper container in which you might bring home items you bought at the store?
+V419	Q110	1	gate night	What do you call the night before Halloween?
+V420	Q110	2	trick night	What do you call the night before Halloween?
+V421	Q110	3	mischief night	What do you call the night before Halloween?
+V422	Q110	4	cabbage night	What do you call the night before Halloween?
+V423	Q110	5	goosy night	What do you call the night before Halloween?
+V424	Q110	6	devil's night	What do you call the night before Halloween?
+V425	Q110	7	devil's eve	What do you call the night before Halloween?
+V426	Q110	8	I have no word for this	What do you call the night before Halloween?
+V427	Q110	9	other	What do you call the night before Halloween?
+V428	Q111	1	end	What do you call the end of a loaf of bread?
+V429	Q111	2	heel	What do you call the end of a loaf of bread?
+V430	Q111	3	crust	What do you call the end of a loaf of bread?
+V431	Q111	4	nose	What do you call the end of a loaf of bread?
+V432	Q111	5	butt	What do you call the end of a loaf of bread?
+V433	Q111	6	shpitzel	What do you call the end of a loaf of bread?
+V434	Q111	7	I have no word for this	What do you call the end of a loaf of bread?
+V435	Q111	8	other	What do you call the end of a loaf of bread?
+V436	Q115	1	a moot point	What do you call a point that is purely academic, or that cannot be settled and isn't worth discussing further?
+V437	Q115	2	a mute point	What do you call a point that is purely academic, or that cannot be settled and isn't worth discussing further?
+V438	Q115	3	either one of the above	What do you call a point that is purely academic, or that cannot be settled and isn't worth discussing further?
+V439	Q115	4	I have no idea	What do you call a point that is purely academic, or that cannot be settled and isn't worth discussing further?
+V440	Q115	5	other	What do you call a point that is purely academic, or that cannot be settled and isn't worth discussing further?
+V441	Q117	1	basement	What do you call the level of a building that is partly or entirely underground?
+V442	Q117	2	cellar	What do you call the level of a building that is partly or entirely underground?
+V443	Q117	3	I use both, and they mean the same thing	What do you call the level of a building that is partly or entirely underground?
+V444	Q117	4	A basement is finished (for example with plastered or painted walls, carpets, etc.), whereas a cellar is unfinished (made up of bare stone or cement, used only for storage).	What do you call the level of a building that is partly or entirely underground?
+V445	Q117	5	A cellar has an outside entrance (some call this a 'bulkhead'), whereas a basement does not	What do you call the level of a building that is partly or entirely underground?
+V446	Q117	6	other	What do you call the level of a building that is partly or entirely underground?
+V447	Q118	1	brew thru	What do you call a drive-through liquor store?
+V448	Q118	2	party barn	What do you call a drive-through liquor store?
+V449	Q118	3	bootlegger	What do you call a drive-through liquor store?
+V450	Q118	4	beer barn	What do you call a drive-through liquor store?
+V451	Q118	5	beverage barn	What do you call a drive-through liquor store?
+V452	Q118	6	we have these in my area, but we have no special term for them	What do you call a drive-through liquor store?
+V453	Q118	7	I have never heard of such a thing	What do you call a drive-through liquor store?
+V454	Q118	8	other	What do you call a drive-through liquor store?
+V455	Q119	1	take-out	What do you call food that you buy at a restaurant but then eat at home?
+V456	Q119	2	carry-out	What do you call food that you buy at a restaurant but then eat at home?
+V457	Q119	3	either take-out or carry-out	What do you call food that you buy at a restaurant but then eat at home?
+V458	Q119	4	other	What do you call food that you buy at a restaurant but then eat at home?
+V459	Q120	1	dibs	What do you say when you want to lay claim to the front seat of a car?
+V460	Q120	2	shotgun	What do you say when you want to lay claim to the front seat of a car?
+V461	Q120	3	hosey	What do you say when you want to lay claim to the front seat of a car?
+V462	Q120	4	high hosey	What do you say when you want to lay claim to the front seat of a car?
+V463	Q120	5	I have no term for this	What do you say when you want to lay claim to the front seat of a car?
+V464	Q120	6	other	What do you say when you want to lay claim to the front seat of a car?
+V465	Q121	1	ogle	What word do you use for gawking at someone in a lustful way?
+V466	Q121	2	oogle	What word do you use for gawking at someone in a lustful way?
+V467	Q121	3	oggle (pronounced to rhyme with 'boggle', but may still be spelled 'ogle')	What word do you use for gawking at someone in a lustful way?
+V468	Q121	4	I use both oogle and ogle interchangeably	What word do you use for gawking at someone in a lustful way?
+V469	Q121	5	I use both ogle and 'oggle'	What word do you use for gawking at someone in a lustful way?
+V470	Q121	6	I have no word for this activity	What word do you use for gawking at someone in a lustful way?
+V471	Q121	7	other	What word do you use for gawking at someone in a lustful way?

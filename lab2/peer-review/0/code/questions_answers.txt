@@ -1,0 +1,602 @@
+
+Q50: What word(s) do you use to address a group of two or more people?
+   1 (a) you all                                   12.6%
+   2 (b) yous, youse                                0.7%
+   3 (c) you lot                                    0.2%
+   4 (d) you guys                                  42.5%
+   5 (e) you 'uns                                   0.2%
+   6 (f) yins                                       0.4%
+   7 (g) you                                       24.8%
+   8 (h) other                                      4.6%
+   9 (i) y'all                                     14.0%
+
+Q51: Would you say 'Are you coming with?' as a full sentence, to mean 'Are you coming with us?'
+   1 (a) yes                                       38.0%
+   2 (b) no                                        60.1%
+   3 (c) other                                      1.9%
+
+Q52: Would you say 'where are you at?' to mean 'where are you?'
+   1 (a) yes                                       34.0%
+   2 (b) no                                        35.6%
+   3 (c) I can use "where are you at" in contexts such as asking someone how s/he is coming along on a project, but not in the general sense of "where are you physically located in the world at this moment".  30.4%
+
+Q53: Modals are words like 'can,' 'could,' 'might,' 'ought to,' and so on. Can you use more than one modal at a time? (e.g., 'I might could do that' to mean 'I might be able to do that'; or 'I used to could do that' to mean 'I used to be able to do that')
+   1 (a) yes (please consider adding which combinations of modals you use in the comments box)  11.5%
+   2 (b) no                                        87.7%
+   3 (c) other                                      0.8%
+
+Q54: He used to nap on the couch, but he sprawls out in that new lounge chair anymore
+   1 (a) this use of "anymore" is acceptable        5.0%
+   2 (b) this use of "anymore" is unacceptable     92.9%
+   3 (c) not sure                                   2.1%
+
+Q55: I do exclusively figurative paintings anymore
+   1 (a) acceptable                                 5.4%
+   2 (b) unacceptable                              91.6%
+   3 (c) not sure                                   3.0%
+
+Q56: Pantyhose are so expensive anymore that I just try to get a good suntan and forget about it.
+   1 (a) acceptable                                29.2%
+   2 (b) unacceptable                              67.3%
+   3 (c) not sure                                   3.5%
+
+Q57: Forget the nice clothes anymore (referring to babies eating messily after a certain age)
+   1 (a) acceptable                                22.1%
+   2 (b) unacceptable                              70.2%
+   3 (c) not sure                                   7.8%
+
+Q58: Which of these terms do you prefer for a sale of unwanted items on your porch, in your yard, etc.?
+   1 (a) tag sale                                   3.6%
+   2 (b) yard sale                                 36.4%
+   3 (c) garage sale                               52.2%
+   4 (d) rummage sale                               3.1%
+   5 (e) thrift sale                                0.1%
+   6 (f) stoop sale                                 0.4%
+   7 (g) carport sale                               0.1%
+   8 (h) sidewalk sale                              0.2%
+   9 (i) jumble (sale)                              0.1%
+   10 (j) car boot sale                              0.1%
+   11 (k) car boot                                   0.0%
+   12 (l) patio sale                                 0.1%
+   13 (m) other                                      3.7%
+
+Q59: What do you call the game wherein the participants see who can throw a knife closest to the other person (or alternately, get a jackknife to stick into the ground or a piece of wood)?
+   1 (a) mumblety-peg                               8.1%
+   2 (b) mumbledy-peg                               8.7%
+   3 (c) mumbly peg                                10.8%
+   4 (d) mumbly pegs                                0.5%
+   5 (e) mumblely peg (with 2 l's)                  1.8%
+   6 (f) mumble peg                                 0.2%
+   7 (g) mummety-peg                                0.0%
+   8 (h) mumble-the-peg                             0.0%
+   9 (i) fumbledy peg                               0.0%
+   10 (j) numblety peg                               0.2%
+   11 (k) peggy                                      0.0%
+   12 (l) baseball jackknife                         0.2%
+   13 (m) stick-knife                                1.0%
+   14 (n) stick-frog                                 0.2%
+   15 (o) stretch                                    1.1%
+   16 (p) chicken                                    2.9%
+   17 (q) knifey                                     0.1%
+   18 (r) splits                                     0.5%
+   19 (s) Russian roulette                           1.9%
+   20 (t) I have never heard of this "game" and have no idea what it's called  51.3%
+   21 (u) other (state here if you have heard one or more of these terms but never knew what they meant)  10.4%
+
+Q60: What do you call the area of grass between the sidewalk and the road?
+   1 (a) berm                                       4.0%
+   2 (b) parking                                    1.8%
+   3 (c) tree lawn                                  1.9%
+   4 (d) terrace                                    0.7%
+   5 (e) curb strip                                 8.7%
+   6 (f) beltway                                    0.2%
+   7 (g) verge                                      2.6%
+   8 (h) I have no word for this                   67.9%
+   9 (i) other                                     12.3%
+
+Q61: What do you call the area of grass that occurs in the middle of some streets?
+   1 (a) boulevard                                  9.1%
+   2 (b) midway                                     1.0%
+   3 (c) traffic island                             8.4%
+   4 (d) island                                    44.2%
+   5 (e) neutral ground                             0.8%
+   6 (f) I have no word for this                   16.0%
+   7 (g) other                                     20.5%
+
+Q62: What do you call the long narrow place in the middle of a divided highway?
+   1 (a) median strip                              13.4%
+   2 (b) median                                    79.2%
+   3 (c) boulevard                                  0.1%
+   4 (d) mall                                       0.0%
+   5 (e) traffic island                             0.7%
+   6 (f) neutral ground                             0.2%
+   7 (g) island                                     2.0%
+   8 (h) park strip                                 0.0%
+   9 (i) I have no word for this                    2.5%
+   10 (j) other                                      1.8%
+
+Q63: What do you call the drink made with milk and ice cream?
+   1 (a) milkshake/shake                           96.4%
+   2 (b) frappe                                     2.4%
+   3 (c) cabinet                                    0.2%
+   4 (d) velvet                                     0.0%
+   5 (e) thick shake                                0.1%
+   6 (f) other                                      0.8%
+
+Q64: What do you call the long sandwich that contains cold cuts, lettuce, and so on?
+   1 (a) sub                                       77.2%
+   2 (b) grinder                                    2.9%
+   3 (c) hoagie                                     7.0%
+   4 (d) hero                                       5.2%
+   5 (e) poor boy                                   1.8%
+   6 (f) bomber                                     0.0%
+   7 (g) Italian sandwich                           0.5%
+   8 (h) baguette                                   0.2%
+   9 (i) sarney                                     0.0%
+   10 (j) I have no word for this                    0.9%
+   11 (k) other                                      4.4%
+
+Q65: What do you call the insect that flies around in the summer and has a rear section that glows in the dark?
+   1 (a) lightning bug                             29.1%
+   2 (b) firefly                                   30.4%
+   3 (c) I use lightning bug and firefly interchangeably  39.8%
+   4 (d) peenie wallie                              0.0%
+   5 (e) I have no word for this                    0.3%
+   6 (f) other                                      0.3%
+
+Q66: What do you call the miniature lobster that one finds in lakes and streams for example (a crustacean of the family Astacidae)?
+   1 (a) crawfish                                  38.8%
+   2 (b) crayfish                                  32.5%
+   3 (c) craw                                       0.0%
+   4 (d) crowfish                                   0.0%
+   5 (e) crawdad                                   19.5%
+   6 (f) mudbug                                     0.1%
+   7 (g) I have no word for this critter            5.4%
+   8 (h) other                                      3.7%
+
+Q67: What do you call the kind of spider (or spider-like creature) that has an oval-shaped body and extremely long legs?
+   1 (a) daddy long leg(s)                         94.3%
+   2 (b) daddy big legs                             1.1%
+   3 (c) daddy (bug)                                0.0%
+   4 (d) father longlegs                            0.0%
+   5 (e) granddaddy                                 0.5%
+   6 (f) daddy graybeard                            0.0%
+   7 (g) daddy spider                               0.0%
+   8 (h) harvestman                                 0.2%
+   9 (i) moskeet spider                             0.0%
+   10 (j) pointer                                    0.0%
+   11 (k) shepherd spider                            0.0%
+   12 (l) other                                      3.9%
+
+Q68: What nicknames do/did you use for your maternal grandmother?
+   1 (a) grandmother                                4.8%
+   2 (b) granny                                     3.8%
+   3 (c) grandma                                   50.7%
+   4 (d) nana                                       5.8%
+   5 (e) mimi                                       1.0%
+   6 (f) grammy/grammie/grammi                      3.2%
+   7 (g) other                                     30.8%
+
+Q69: What about your paternal grandmother (is there a distinction?)
+   1 (a) grandmother                                6.4%
+   2 (b) granny                                     3.7%
+   3 (c) grandma                                   47.7%
+   4 (d) gramma                                    13.7%
+   5 (e) nana                                       4.5%
+   6 (f) other                                     24.1%
+
+Q70: What do/did you call your maternal grandfather?
+   1 (a) gramps                                     1.0%
+   2 (b) grandpa                                   21.1%
+   3 (c) grampa                                    13.9%
+   4 (d) grandad, granddad                          5.1%
+   5 (e) pap                                        0.8%
+   6 (f) I spell it 'grandpa' but pronounce it as 'grampa'  25.9%
+   7 (g) other (including if you use a different term to address him directly than you do when speaking about him to a third party)  32.3%
+
+Q71: paternal grandfather?
+   1 (a) gramps                                     0.9%
+   2 (b) grandpa                                   32.3%
+   3 (c) grampa                                    28.9%
+   4 (d) pap                                        0.6%
+   5 (e) other                                     37.3%
+
+Q72: What do you call the big clumps of dust that gather under furniture and in corners?
+   1 (a) dust bunnies                              71.9%
+   2 (b) dust kittens                               0.3%
+   3 (c) dust mice                                  1.0%
+   4 (d) kitties                                    0.3%
+   5 (e) dust balls                                21.4%
+   6 (f) other                                      5.1%
+
+Q73: What is your *general* term for the rubber-soled shoes worn in gym class, for athletic activities, etc.?
+   1 (a) sneakers                                  45.5%
+   2 (b) shoes                                      1.9%
+   3 (c) gymshoes                                   5.5%
+   4 (d) sand shoes                                 0.0%
+   5 (e) jumpers                                    0.0%
+   6 (f) tennis shoes                              41.3%
+   7 (g) running shoes                              1.4%
+   8 (h) runners                                    0.2%
+   9 (i) trainers                                   0.2%
+   10 (j) I have no general word for this            0.9%
+   11 (k) other                                      3.0%
+
+Q74: What do you call the little gray creature (that looks like an insect but is actually a crustacean) that rolls up into a ball when you touch it?
+   1 (a) pill bug                                  15.9%
+   2 (b) doodle bug                                 3.6%
+   3 (c) potato bug                                12.9%
+   4 (d) roly poly                                 33.1%
+   5 (e) sow bug                                    4.1%
+   6 (f) basketball bug                             0.1%
+   7 (g) twiddle bug                                0.0%
+   8 (h) roll-up bug                                0.2%
+   9 (i) wood louse                                 0.5%
+   10 (j) millipede                                  0.9%
+   11 (k) centipede                                  2.3%
+   12 (l) I know what this creature is, but have no word for it   9.4%
+   13 (m) I have no idea what this creature is      13.2%
+   14 (n) other                                      3.7%
+
+Q75: What do you call the wheeled contraption in which you carry groceries at the supermarket?
+   1 (a) shopping cart                             77.0%
+   2 (b) shopping wagon                             0.2%
+   3 (c) grocery cart                              13.9%
+   4 (d) shopping carriage                          0.2%
+   5 (e) carriage                                   0.9%
+   6 (f) buggy                                      4.1%
+   7 (g) supermarket trolley                        0.2%
+   8 (h) other                                      3.3%
+
+Q76: What term do you use to refer to something that is across both streets from you at an intersection (or diagonally across from you in general)?
+   1 (a) kitty-corner                              49.5%
+   2 (b) kitacorner                                 0.1%
+   3 (c) catercorner                                1.3%
+   4 (d) catty-corner                              30.4%
+   5 (e) kitty cross                                0.0%
+   6 (f) kitty wampus                               0.1%
+   7 (g) I can only use 'diagonal' for this        12.3%
+   8 (h) I have no term for this                    3.7%
+   9 (i) other                                      2.5%
+
+Q77: What do you call the activity of driving around in circles in a car?
+   1 (a) doing donuts                              80.7%
+   2 (b) doing cookies                              1.7%
+   3 (c) whipping shitties                          1.4%
+   4 (d) other                                     16.1%
+
+Q78: What do you call paper that has already been used for something or is otherwise imperfect?
+   1 (a) scratch paper                             31.0%
+   2 (b) scrap paper                               30.7%
+   3 (c) scratch paper is still usable (for example, the paper you bring to do extra work on a test); scrap paper is paper that isn't needed anymore and can be thrown away.  35.6%
+   4 (d) other                                      2.6%
+
+Q79: What is your *general* term for a big road that you drive relatively fast on?
+   1 (a) highway                                   57.0%
+   2 (b) freeway                                   12.0%
+   3 (c) parkway                                    0.4%
+   4 (d) turnpike                                   0.5%
+   5 (e) expressway                                 4.8%
+   6 (f) throughway/thru-way                        0.4%
+   7 (g) a freeway is bigger than a highway         5.1%
+   8 (h) a freeway is free (i.e., doesn't charge tolls); a highway isn't   0.4%
+   9 (i) a freeway has limited access (no stop lights, no intersections), whereas a highway can have stop lights and intersections  14.8%
+   10 (j) other                                      4.5%
+
+Q80: What do you call it when rain falls while the sun is shining?
+   1 (a) sunshower                                 34.3%
+   2 (b) the wolf is giving birth                   0.0%
+   3 (c) the devil is beating his wife              6.4%
+   4 (d) monkey's wedding                           0.2%
+   5 (e) fox's wedding                              0.1%
+   6 (f) pineapple rain                             0.0%
+   7 (g) liquid sun                                 0.7%
+   8 (h) I have no term or expression for this     55.1%
+   9 (i) other                                      3.0%
+
+Q81: When you are cold, and little points of skin begin to come on your arms and legs, you have-
+   1 (a) goose bumps                               89.9%
+   2 (b) goose flesh                                0.3%
+   3 (c) goose pimples                              7.3%
+   4 (d) chill bumps                                1.2%
+   5 (e) chill bugs                                 0.0%
+   6 (f) chilly bumps                               0.1%
+   7 (g) cold-chill bumps                           1.3%
+   8 (h) other                                      0.0%
+
+Q82: What do you call the gooey or dry matter that collects in the corners of your eyes, especially while you are sleeping?
+   1 (a) crackling                                  0.2%
+   2 (b) sleep                                     37.8%
+   3 (c) sleeper                                    4.2%
+   4 (d) sleepy                                     1.6%
+   5 (e) sleepies                                   5.2%
+   6 (f) sleepy seed                                1.7%
+   7 (g) sleepy bugs                                0.8%
+   8 (h) eye booger                                10.7%
+   9 (i) eye shit                                   0.5%
+   10 (j) eye crunchie                               0.1%
+   11 (k) eye crusties                               3.1%
+   12 (l) sand                                       7.8%
+   13 (m) kitty                                      0.1%
+   14 (n) gunk                                       7.1%
+   15 (o) matter                                     1.6%
+   16 (p) I have no word for this                    8.7%
+   17 (q) other                                      9.1%
+
+Q83: What do you call an easy course?
+   1 (a) gut                                       14.7%
+   2 (b) crypt course                               0.4%
+   3 (c) crip course                                5.0%
+   4 (d) bird                                       1.1%
+   5 (e) blow-off                                  36.6%
+   6 (f) meat                                       0.2%
+   7 (g) other                                     42.0%
+
+Q84: What do you call a traffic situation in which several roads meet in a circle and you have to get off at a certain point?
+   1 (a) rotary                                    12.6%
+   2 (b) roundabout                                24.4%
+   3 (c) circle                                     9.2%
+   4 (d) traffic circle                            38.9%
+   5 (e) traffic circus                             0.2%
+   6 (f) I have no word for this                   12.3%
+   7 (g) other                                      2.4%
+
+Q85: What is the thing that women use to tie their hair?
+   1 (a) (hair) elastic                            12.5%
+   2 (b) rubber band                               32.0%
+   3 (c) horsetail                                  0.1%
+   4 (d) hair thing                                15.0%
+   5 (e) hair tie                                  18.8%
+   6 (f) other                                     21.7%
+
+Q86: Do you use the word cruller?
+   1 (a) yes                                       30.9%
+   2 (b) no, but I know what it means              41.8%
+   3 (c) I have no idea what this means            27.2%
+
+Q87: Do you use the term 'bear claw' for a kind of pastry?
+   1 (a) yes                                       55.2%
+   2 (b) no, but I know what it means              33.9%
+   3 (c) I have no idea what this means            10.8%
+
+Q88: What do you call someone who is the opposite of pigeon-toed (i.e. when they walk their feet point outwards)?
+   1 (a) duck-footed                               29.1%
+   2 (b) slue-footed                                2.3%
+   3 (c) splay-footed                               5.3%
+   4 (d) bow-legged                                26.4%
+   5 (e) toed out                                   2.9%
+   6 (f) other                                      2.9%
+   7 (g) I have no word for this                   31.1%
+
+Q89: Can you call coleslaw 'slaw'?
+   1 (a) yes                                       38.3%
+   2 (b) yes, but I can also use it in other forms such as apple slaw or broccoli slaw   9.5%
+   3 (c) no                                        47.2%
+   4 (d) I have never heard that usage before       4.2%
+   5 (e) other                                      0.7%
+
+Q90: What do you call the box you bury a dead person in?
+   1 (a) coffin                                    65.8%
+   2 (b) casket                                    18.1%
+   3 (c) a coffin and a casket are not the same, and I know the difference  10.2%
+   4 (d) other                                      5.8%
+
+Q91: Do you say 'vinegar and oil' or 'oil and vinegar' for the type of salad dressing?
+   1 (a) vinegar and oil                            9.8%
+   2 (b) oil and vinegar                           78.6%
+   3 (c) both sound equally good to me             10.5%
+   4 (d) neither                                    0.8%
+   5 (e) other                                      0.3%
+
+Q92: What do you call it when a driver changes over one or more lanes way too quickly?
+   1 (a) Chinese lane change                        4.3%
+   2 (b) Chinese fire drill                         7.9%
+   3 (c) other                                     87.9%
+
+Q93: When you stand outside with a long line of people waiting to get in somewhere, are you standing 'in line' or 'on line' (as in, 'I stood ___ in the cold for two hours before they opened the doors')?
+   1 (a) on line                                    5.5%
+   2 (b) in line                                   88.3%
+   3 (c) both sound equally good                    5.4%
+   4 (d) neither                                    0.1%
+   5 (e) other                                      0.7%
+
+Q94: Do you say 'frosting' or 'icing' for the sweet spread one puts on a cake?
+   1 (a) frosting                                  32.8%
+   2 (b) icing                                     16.9%
+   3 (c) icing is thinner than frosting, white, and/or made of powdered sugar and milk or lemon juice  20.7%
+   4 (d) both                                      28.9%
+   5 (e) neither                                    0.0%
+   6 (f) other                                      0.7%
+
+Q95: What is 'the City'?
+   1 (a) New York City                             47.0%
+   2 (b) Boston                                     2.6%
+   3 (c) DC                                         2.2%
+   4 (d) LA                                         1.9%
+   5 (e) Chicago                                    4.6%
+   6 (f) other                                     41.7%
+
+Q96: What is the distinction between dinner and supper?
+   1 (a) supper is an evening meal while dinner is eaten earlier (lunch, for example)   7.8%
+   2 (b) supper is an evening meal, dinner is the main meal   7.8%
+   3 (c) dinner takes place in a more formal setting than supper  12.1%
+   4 (d) there is no distinction; they both have the same meaning  34.6%
+   5 (e) I do not use the term supper              33.1%
+   6 (f) I don't use the term dinner                0.8%
+   7 (g) other                                      3.8%
+
+Q97: Which of these terms do you prefer?
+   1 (a) trash can                                 35.5%
+   2 (b) garbage can                               27.4%
+   3 (c) rubbish bin                                0.4%
+   4 (d) waste(paper) basket                        1.1%
+   5 (e) These words refer to different things     33.3%
+   6 (f) other                                      2.4%
+
+Q98: Which of these terms do you prefer?
+   1 (a) By accident                               77.6%
+   2 (b) On accident                                9.3%
+   3 (c) both                                       9.8%
+   4 (d) neither                                    1.6%
+   5 (e) other                                      1.7%
+
+Q99: Which of these terms do you prefer for the small road parallel to the highway?
+   1 (a) frontage road                             29.1%
+   2 (b) service road                              30.5%
+   3 (c) access road                               17.8%
+   4 (d) feeder road                                2.0%
+   5 (e) gateway                                    0.1%
+   6 (f) we have them but I have no word for them  12.2%
+   7 (g) I've never heard of this concept           4.2%
+   8 (h) other                                      4.1%
+
+Q100: Do you cut or mow the lawn or grass?
+   1 (a) cut the grass                             18.4%
+   2 (b) cut the lawn                               0.6%
+   3 (c) mow the grass                              5.8%
+   4 (d) mow the lawn                              66.8%
+   5 (e) other                                      8.4%
+
+Q101: Do you pass in homework or hand in homework?
+   1 (a) pass in                                    3.5%
+   2 (b) hand in                                   75.7%
+   3 (c) both                                      12.4%
+   4 (d) neither                                    0.4%
+   5 (e) other                                      8.0%
+
+Q102: What do you call the insect that looks like a large thin spider and skitters along the top of water?
+   1 (a) waterbug                                  46.0%
+   2 (b) Jesus bug                                  0.5%
+   3 (c) waterstrider                              13.6%
+   4 (d) strider                                    0.5%
+   5 (e) water-spider                               6.3%
+   6 (f) watercrawler                               0.7%
+   7 (g) water beetle                               2.0%
+   8 (h) backstrider                                0.1%
+   9 (i) skimmer                                    3.7%
+   10 (j) I have no word for this                   21.9%
+   11 (k) other                                      4.7%
+
+Q103: What do you call the thing from which you might drink water in a school?
+   1 (a) bubbler                                    3.8%
+   2 (b) water bubbler                              0.3%
+   3 (c) drinking fountain                         33.2%
+   4 (d) water fountain                            61.0%
+   5 (e) other                                      1.7%
+
+Q104: What do you call a public railway system (normally underground)?
+   1 (a) the subway                                80.5%
+   2 (b) the L, or the El                           3.0%
+   3 (c) the T                                      2.9%
+   4 (d) the metro                                  4.9%
+   5 (e) BART                                       1.9%
+   6 (f) other                                      6.8%
+
+Q105: What is your generic term for a sweetened carbonated beverage?
+   1 (a) soda                                      53.0%
+   2 (b) pop                                       25.1%
+   3 (c) coke                                      12.4%
+   4 (d) tonic                                      0.7%
+   5 (e) soft drink                                 5.9%
+   6 (f) lemonade                                   0.0%
+   7 (g) cocola                                     0.3%
+   8 (h) fizzy drink                                0.1%
+   9 (i) dope                                       0.0%
+   10 (j) other                                      2.5%
+
+Q106: What do you call the act of covering a house or area in front of a house with toilet paper?
+   1 (a) tp'ing                                    57.6%
+   2 (b) rolling                                    6.7%
+   3 (c) toilet papering                           21.0%
+   4 (d) wrapping                                   2.1%
+   5 (e) papering                                   3.7%
+   6 (f) bog rolling                                0.1%
+   7 (g) I have no word for this                    7.8%
+   8 (h) other                                      1.0%
+
+Q107: What do you call a traffic jam caused by drivers slowing down to look at an accident or other diversion on the side of the road?
+   1 (a) rubberneck                                 2.0%
+   2 (b) rubbernecking                             14.9%
+   3 (c) rubbernecking is the activity (slowing down and gawking) that causes the traffic jam, but I have no word for the traffic jam itself  60.5%
+   4 (d) gapers' block                              2.5%
+   5 (e) gapers' delay                              1.9%
+   6 (f) Lookie Lou                                 1.6%
+   7 (g) curiosity delay                            0.8%
+   8 (h) gawk block                                 0.6%
+   9 (i) I have no word for this                   11.4%
+   10 (j) other                                      3.7%
+
+Q109: What do you call the paper container in which you might bring home items you bought at the store?
+   1 (a) bag                                       90.3%
+   2 (b) sack                                       8.1%
+   3 (c) poke                                       0.1%
+   4 (d) other                                      1.5%
+
+Q110: What do you call the night before Halloween?
+   1 (a) gate night                                 0.4%
+   2 (b) trick night                                0.3%
+   3 (c) mischief night                            10.8%
+   4 (d) cabbage night                              1.7%
+   5 (e) goosy night                                0.4%
+   6 (f) devil's night                             11.1%
+   7 (g) devil's eve                                0.8%
+   8 (h) I have no word for this                   70.4%
+   9 (i) other                                      4.1%
+
+Q111: What do you call the end of a loaf of bread?
+   1 (a) end                                       17.3%
+   2 (b) heel                                      59.1%
+   3 (c) crust                                     15.2%
+   4 (d) nose                                       0.2%
+   5 (e) butt                                       3.5%
+   6 (f) shpitzel                                   0.1%
+   7 (g) I have no word for this                    2.0%
+   8 (h) other                                      2.6%
+
+Q115: What do you call a point that is purely academic, or that cannot be settled and isn't worth discussing further?
+   1 (a) a moot point                              89.0%
+   2 (b) a mute point                               3.0%
+   3 (c) either one of the above                    1.3%
+   4 (d) I have no idea                             5.6%
+   5 (e) other                                      1.1%
+
+Q117: What do you call the level of a building that is partly or entirely underground?
+   1 (a) basement                                  60.7%
+   2 (b) cellar                                     1.7%
+   3 (c) I use both, and they mean the same thing  12.6%
+   4 (d) A basement is finished (for example with plastered or painted walls, carpets, etc.), whereas a cellar is unfinished (made up of bare stone or cement, used only for storage).  15.3%
+   5 (e) A cellar has an outside entrance (some call this a 'bulkhead'), whereas a basement does not   8.4%
+   6 (f) other                                      1.4%
+
+Q118: What do you call a drive-through liquor store?
+   1 (a) brew thru                                  3.4%
+   2 (b) party barn                                 0.7%
+   3 (c) bootlegger                                 0.1%
+   4 (d) beer barn                                  2.8%
+   5 (e) beverage barn                              0.8%
+   6 (f) we have these in my area, but we have no special term for them  31.4%
+   7 (g) I have never heard of such a thing        48.3%
+   8 (h) other                                     12.4%
+
+Q119: What do you call food that you buy at a restaurant but then eat at home?
+   1 (a) take-out                                  70.5%
+   2 (b) carry-out                                  6.4%
+   3 (c) either take-out or carry-out              20.6%
+   4 (d) other                                      2.5%
+
+Q120: What do you say when you want to lay claim to the front seat of a car?
+   1 (a) dibs                                      21.0%
+   2 (b) shotgun                                   69.0%
+   3 (c) hosey                                      0.3%
+   4 (d) high hosey                                 0.1%
+   5 (e) I have no term for this                    6.6%
+   6 (f) other                                      3.0%
+
+Q121: What word do you use for gawking at someone in a lustful way?
+   1 (a) ogle                                      43.8%
+   2 (b) oogle                                     15.1%
+   3 (c) oggle (pronounced to rhyme with 'boggle', but may still be spelled 'ogle')  22.8%
+   4 (d) I use both oogle and ogle interchangeably   3.6%
+   5 (e) I use both ogle and 'oggle'                4.5%
+   6 (f) I have no word for this activity           7.3%
+   7 (g) other                                      3.0%
